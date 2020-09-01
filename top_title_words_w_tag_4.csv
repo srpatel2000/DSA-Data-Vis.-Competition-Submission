@@ -1,0 +1,2001 @@
+,word,occurrence,tag,rate
+0,data,957,Machine Learning,23.688118811881186
+1,learning,861,Machine Learning,21.31188118811881
+2,machine,732,Machine Learning,18.11881188118812
+3,science,471,Machine Learning,11.658415841584159
+4,strong,250,Machine Learning,6.188118811881188
+5,python,222,Machine Learning,5.4950495049504955
+6,part,185,Machine Learning,4.579207920792079
+7,regression,139,Machine Learning,3.440594059405941
+8,analysis,123,Machine Learning,3.0445544554455446
+9,model,122,Machine Learning,3.01980198019802
+10,scientist,92,Machine Learning,2.277227722772277
+11,deep,90,Machine Learning,2.2277227722772275
+12,neural,86,Machine Learning,2.128712871287129
+13,classification,83,Machine Learning,2.0544554455445545
+14,linear,82,Machine Learning,2.0297029702970297
+15,introduction,78,Machine Learning,1.9306930693069306
+16,prediction,78,Machine Learning,1.9306930693069306
+17,artificial,78,Machine Learning,1.9306930693069306
+18,guide,76,Machine Learning,1.881188118811881
+19,intelligence,70,Machine Learning,1.7326732673267329
+20,python,547,Python,31.292906178489705
+21,data,462,Python,26.43020594965675
+22,science,207,Python,11.842105263157894
+23,learning,156,Python,8.924485125858125
+24,machine,124,Python,7.093821510297483
+25,analysis,91,Python,5.205949656750572
+26,part,82,Python,4.691075514874142
+27,covid,73,Python,4.176201372997712
+28,strong,67,Python,3.8329519450800915
+29,introduction,44,Python,2.517162471395881
+30,guide,39,Python,2.231121281464531
+31,scraping,36,Python,2.059496567505721
+32,regression,35,Python,2.002288329519451
+33,visualization,35,Python,2.002288329519451
+34,model,31,Python,1.7734553775743707
+35,best,30,Python,1.7162471395881007
+36,learn,30,Python,1.7162471395881007
+37,linear,25,Python,1.4302059496567507
+38,know,24,Python,1.3729977116704806
+39,scientist,23,Python,1.3157894736842104
+40,data,374,Artificial Intelligence,21.820303383897315
+41,learning,310,Artificial Intelligence,18.08634772462077
+42,machine,247,Artificial Intelligence,14.410735122520421
+43,science,190,Artificial Intelligence,11.085180863477246
+44,strong,119,Artificial Intelligence,6.942823803967328
+45,artificial,93,Artificial Intelligence,5.425904317386231
+46,intelligence,89,Artificial Intelligence,5.192532088681447
+47,specialist,71,Artificial Intelligence,4.142357059509918
+48,part,54,Artificial Intelligence,3.150525087514586
+49,python,52,Artificial Intelligence,3.0338389731621938
+50,deep,48,Artificial Intelligence,2.8004667444574096
+51,best,47,Artificial Intelligence,2.7421236872812136
+52,model,45,Artificial Intelligence,2.6254375729288215
+53,expert,41,Artificial Intelligence,2.3920653442240374
+54,scientist,40,Artificial Intelligence,2.3337222870478413
+55,world,40,Artificial Intelligence,2.3337222870478413
+56,covid,39,Artificial Intelligence,2.2753792298716453
+57,canada,38,Artificial Intelligence,2.2170361726954493
+58,real,33,Artificial Intelligence,1.9253208868144693
+59,neural,31,Artificial Intelligence,1.8086347724620768
+60,data,441,Data Visualization,37.24662162162162
+61,covid,135,Data Visualization,11.402027027027026
+62,science,112,Data Visualization,9.45945945945946
+63,analysis,107,Data Visualization,9.037162162162163
+64,visualization,91,Data Visualization,7.685810810810811
+65,python,79,Data Visualization,6.672297297297297
+66,strong,53,Data Visualization,4.476351351351352
+67,learning,43,Data Visualization,3.6317567567567566
+68,part,39,Data Visualization,3.2939189189189184
+69,exploratory,36,Data Visualization,3.040540540540541
+70,machine,35,Data Visualization,2.956081081081081
+71,world,27,Data Visualization,2.2804054054054053
+72,tableau,26,Data Visualization,2.195945945945946
+73,analytics,25,Data Visualization,2.1114864864864864
+74,project,24,Data Visualization,2.027027027027027
+75,dashboard,19,Data Visualization,1.6047297297297296
+76,best,17,Data Visualization,1.435810810810811
+77,scientist,17,Data Visualization,1.435810810810811
+78,chart,16,Data Visualization,1.3513513513513513
+79,story,16,Data Visualization,1.3513513513513513
+80,data,509,Data,47.26090993500464
+81,science,124,Data,11.513463324048283
+82,strong,79,Data,7.3351903435468895
+83,analytics,44,Data,4.085422469823584
+84,covid,44,Data,4.085422469823584
+85,python,36,Data,3.3426183844011144
+86,learning,35,Data,3.2497678737233056
+87,analysis,34,Data,3.1569173630454963
+88,machine,27,Data,2.5069637883008355
+89,specialist,25,Data,2.321262766945218
+90,part,23,Data,2.1355617455896008
+91,expert,23,Data,2.1355617455896008
+92,scientist,21,Data,1.9498607242339834
+93,famous,20,Data,1.8570102135561743
+94,world,16,Data,1.4856081708449396
+95,know,16,Data,1.4856081708449396
+96,business,16,Data,1.4856081708449396
+97,span,15,Data,1.392757660167131
+98,best,15,Data,1.392757660167131
+99,intelligence,14,Data,1.2999071494893222
+100,learning,202,Deep Learning,24.876847290640395
+101,deep,109,Deep Learning,13.423645320197044
+102,data,102,Deep Learning,12.561576354679804
+103,machine,88,Deep Learning,10.83743842364532
+104,neural,70,Deep Learning,8.620689655172415
+105,science,60,Deep Learning,7.389162561576355
+106,strong,44,Deep Learning,5.41871921182266
+107,part,41,Deep Learning,5.0492610837438425
+108,image,39,Deep Learning,4.80295566502463
+109,artificial,34,Deep Learning,4.1871921182266005
+110,detection,33,Deep Learning,4.064039408866995
+111,network,28,Deep Learning,3.4482758620689653
+112,model,28,Deep Learning,3.4482758620689653
+113,intelligence,26,Deep Learning,3.201970443349754
+114,classification,25,Deep Learning,3.0788177339901477
+115,python,21,Deep Learning,2.586206896551724
+116,introduction,19,Deep Learning,2.3399014778325125
+117,object,19,Deep Learning,2.3399014778325125
+118,virtual,15,Deep Learning,1.8472906403940887
+119,guide,14,Deep Learning,1.7241379310344827
+120,covid,420,Covid 19,65.93406593406593
+121,data,167,Covid 19,26.21664050235479
+122,strong,54,Covid 19,8.47723704866562
+123,science,46,Covid 19,7.221350078492936
+124,analysis,27,Covid 19,4.23861852433281
+125,pandemic,26,Covid 19,4.081632653061225
+126,python,22,Covid 19,3.453689167974882
+127,model,16,Covid 19,2.511773940345369
+128,part,15,Covid 19,2.3547880690737837
+129,impact,14,Covid 19,2.197802197802198
+130,learning,14,Covid 19,2.197802197802198
+131,outbreak,13,Covid 19,2.0408163265306123
+132,spread,12,Covid 19,1.8838304552590266
+133,crisis,12,Covid 19,1.8838304552590266
+134,machine,12,Covid 19,1.8838304552590266
+135,visualization,11,Covid 19,1.726844583987441
+136,corona,10,Covid 19,1.5698587127158554
+137,virus,10,Covid 19,1.5698587127158554
+138,help,10,Covid 19,1.5698587127158554
+139,fight,10,Covid 19,1.5698587127158554
+140,data,269,Data Analysis,42.698412698412696
+141,analysis,98,Data Analysis,15.555555555555555
+142,science,63,Data Analysis,10.0
+143,python,49,Data Analysis,7.777777777777778
+144,learning,47,Data Analysis,7.4603174603174605
+145,strong,34,Data Analysis,5.396825396825397
+146,machine,33,Data Analysis,5.238095238095238
+147,analytics,27,Data Analysis,4.285714285714286
+148,covid,25,Data Analysis,3.968253968253968
+149,part,22,Data Analysis,3.492063492063492
+150,guide,13,Data Analysis,2.0634920634920633
+151,exploratory,13,Data Analysis,2.0634920634920633
+152,scientist,12,Data Analysis,1.9047619047619049
+153,customer,11,Data Analysis,1.746031746031746
+154,visualization,10,Data Analysis,1.5873015873015872
+155,easily,10,Data Analysis,1.5873015873015872
+156,know,9,Data Analysis,1.4285714285714286
+157,introduction,9,Data Analysis,1.4285714285714286
+158,need,8,Data Analysis,1.2698412698412698
+159,project,8,Data Analysis,1.2698412698412698
+160,data,204,Analytics,35.72679509632224
+161,analytics,100,Analytics,17.513134851138354
+162,science,52,Analytics,9.106830122591944
+163,strong,49,Analytics,8.581436077057793
+164,part,31,Analytics,5.42907180385289
+165,analysis,29,Analytics,5.078809106830122
+166,learning,29,Analytics,5.078809106830122
+167,covid,27,Analytics,4.728546409807356
+168,python,24,Analytics,4.203152364273205
+169,machine,17,Analytics,2.9772329246935203
+170,business,14,Analytics,2.4518388791593697
+171,scientist,12,Analytics,2.1015761821366024
+172,guide,10,Analytics,1.7513134851138354
+173,analyst,9,Analytics,1.5761821366024518
+174,span,9,Analytics,1.5761821366024518
+175,predict,9,Analytics,1.5761821366024518
+176,exploratory,8,Analytics,1.4010507880910683
+177,regression,8,Analytics,1.4010507880910683
+178,power,7,Analytics,1.2259194395796849
+179,problem,7,Analytics,1.2259194395796849
+180,data,153,AI,26.842105263157894
+181,learning,89,AI,15.6140350877193
+182,science,70,AI,12.280701754385964
+183,machine,64,AI,11.228070175438596
+184,strong,50,AI,8.771929824561402
+185,part,34,AI,5.964912280701754
+186,intelligence,31,AI,5.43859649122807
+187,artificial,29,AI,5.087719298245614
+188,covid,21,AI,3.684210526315789
+189,python,20,AI,3.508771929824561
+190,model,16,AI,2.807017543859649
+191,news,16,AI,2.807017543859649
+192,analytics,15,AI,2.631578947368421
+193,deep,15,AI,2.631578947368421
+194,analysis,10,AI,1.7543859649122806
+195,learn,10,AI,1.7543859649122806
+196,regression,9,AI,1.5789473684210527
+197,scientist,9,AI,1.5789473684210527
+198,introduction,8,AI,1.4035087719298245
+199,neural,8,AI,1.4035087719298245
+200,data,129,Statistics,23.88888888888889
+201,science,59,Statistics,10.925925925925926
+202,statistics,56,Statistics,10.37037037037037
+203,covid,40,Statistics,7.4074074074074066
+204,part,34,Statistics,6.296296296296296
+205,analysis,27,Statistics,5.0
+206,learning,23,Statistics,4.2592592592592595
+207,strong,23,Statistics,4.2592592592592595
+208,machine,22,Statistics,4.074074074074074
+209,regression,21,Statistics,3.888888888888889
+210,hypothesis,20,Statistics,3.7037037037037033
+211,python,18,Statistics,3.3333333333333335
+212,statistical,16,Statistics,2.9629629629629632
+213,introduction,16,Statistics,2.9629629629629632
+214,exploratory,16,Statistics,2.9629629629629632
+215,testing,14,Statistics,2.5925925925925926
+216,probability,14,Statistics,2.5925925925925926
+217,linear,13,Statistics,2.4074074074074074
+218,model,13,Statistics,2.4074074074074074
+219,understanding,11,Statistics,2.037037037037037
+220,data,302,Big Data,65.08620689655173
+221,science,75,Big Data,16.163793103448278
+222,analytics,42,Big Data,9.051724137931034
+223,strong,39,Big Data,8.405172413793103
+224,machine,20,Big Data,4.310344827586207
+225,learning,20,Big Data,4.310344827586207
+226,spark,18,Big Data,3.8793103448275863
+227,scientist,14,Big Data,3.0172413793103448
+228,part,13,Big Data,2.8017241379310347
+229,python,13,Big Data,2.8017241379310347
+230,apache,12,Big Data,2.586206896551724
+231,analysis,12,Big Data,2.586206896551724
+232,career,8,Big Data,1.7241379310344827
+233,covid,8,Big Data,1.7241379310344827
+234,getting,7,Big Data,1.5086206896551724
+235,engineer,7,Big Data,1.5086206896551724
+236,analyst,7,Big Data,1.5086206896551724
+237,business,6,Big Data,1.293103448275862
+238,introduction,6,Big Data,1.293103448275862
+239,future,6,Big Data,1.293103448275862
+240,data,151,Technology,33.33333333333333
+241,science,72,Technology,15.894039735099339
+242,learning,57,Technology,12.582781456953644
+243,strong,53,Technology,11.699779249448124
+244,machine,50,Technology,11.037527593818984
+245,python,18,Technology,3.9735099337748347
+246,technology,16,Technology,3.532008830022075
+247,covid,16,Technology,3.532008830022075
+248,tech,14,Technology,3.090507726269316
+249,analytics,13,Technology,2.869757174392936
+250,intelligence,13,Technology,2.869757174392936
+251,scientist,12,Technology,2.6490066225165565
+252,newsletter,11,Technology,2.4282560706401766
+253,artificial,11,Technology,2.4282560706401766
+254,model,9,Technology,1.9867549668874174
+255,business,8,Technology,1.7660044150110374
+256,guide,8,Technology,1.7660044150110374
+257,build,8,Technology,1.7660044150110374
+258,first,7,Technology,1.545253863134658
+259,learn,7,Technology,1.545253863134658
+260,data,101,Programming,23.990498812351543
+261,python,92,Programming,21.852731591448933
+262,learning,52,Programming,12.351543942992874
+263,science,47,Programming,11.163895486935866
+264,machine,45,Programming,10.688836104513063
+265,strong,30,Programming,7.1258907363420425
+266,part,23,Programming,5.463182897862233
+267,covid,20,Programming,4.750593824228028
+268,code,16,Programming,3.800475059382423
+269,introduction,13,Programming,3.0878859857482186
+270,learn,13,Programming,3.0878859857482186
+271,scientist,13,Programming,3.0878859857482186
+272,best,11,Programming,2.6128266033254155
+273,know,11,Programming,2.6128266033254155
+274,need,9,Programming,2.137767220902613
+275,model,9,Programming,2.137767220902613
+276,built,7,Programming,1.66270783847981
+277,analysis,7,Programming,1.66270783847981
+278,guide,7,Programming,1.66270783847981
+279,easy,7,Programming,1.66270783847981
+280,language,38,NLP,11.078717201166182
+281,data,27,NLP,7.871720116618077
+282,natural,24,NLP,6.997084548104956
+283,part,19,NLP,5.539358600583091
+284,news,18,NLP,5.247813411078718
+285,text,17,NLP,4.956268221574344
+286,classification,17,NLP,4.956268221574344
+287,strong,17,NLP,4.956268221574344
+288,analysis,16,NLP,4.664723032069971
+289,python,14,NLP,4.081632653061225
+290,learning,13,NLP,3.7900874635568513
+291,word,13,NLP,3.7900874635568513
+292,science,13,NLP,3.7900874635568513
+293,model,12,NLP,3.498542274052478
+294,covid,10,NLP,2.9154518950437316
+295,topic,9,NLP,2.623906705539359
+296,virtual,9,NLP,2.623906705539359
+297,sentiment,8,NLP,2.3323615160349855
+298,twitter,8,NLP,2.3323615160349855
+299,introduction,8,NLP,2.3323615160349855
+300,covid,157,Coronavirus,49.0625
+301,data,75,Coronavirus,23.4375
+302,strong,26,Coronavirus,8.125
+303,science,25,Coronavirus,7.8125
+304,pandemic,17,Coronavirus,5.3125
+305,analysis,10,Coronavirus,3.125
+306,model,9,Coronavirus,2.8125
+307,outbreak,9,Coronavirus,2.8125
+308,python,8,Coronavirus,2.5
+309,corona,8,Coronavirus,2.5
+310,spread,7,Coronavirus,2.1875
+311,virus,7,Coronavirus,2.1875
+312,twitter,6,Coronavirus,1.875
+313,crisis,6,Coronavirus,1.875
+314,simple,6,Coronavirus,1.875
+315,learning,6,Coronavirus,1.875
+316,make,6,Coronavirus,1.875
+317,help,5,Coronavirus,1.5625
+318,curve,5,Coronavirus,1.5625
+319,look,5,Coronavirus,1.5625
+320,data,162,Data Analytics,53.820598006644516
+321,analytics,59,Data Analytics,19.601328903654487
+322,science,40,Data Analytics,13.2890365448505
+323,strong,31,Data Analytics,10.299003322259136
+324,python,20,Data Analytics,6.64451827242525
+325,analysis,19,Data Analytics,6.312292358803987
+326,learning,13,Data Analytics,4.318936877076411
+327,covid,12,Data Analytics,3.9867109634551494
+328,machine,9,Data Analytics,2.990033222591362
+329,part,9,Data Analytics,2.990033222591362
+330,scientist,9,Data Analytics,2.990033222591362
+331,analyst,8,Data Analytics,2.6578073089700998
+332,world,7,Data Analytics,2.3255813953488373
+333,artificial,6,Data Analytics,1.9933554817275747
+334,intelligence,6,Data Analytics,1.9933554817275747
+335,visualization,6,Data Analytics,1.9933554817275747
+336,project,6,Data Analytics,1.9933554817275747
+337,prediction,5,Data Analytics,1.6611295681063125
+338,tableau,5,Data Analytics,1.6611295681063125
+339,para,5,Data Analytics,1.6611295681063125
+340,specialist,107,Astrology,44.398340248962654
+341,famous,56,Astrology,23.236514522821576
+342,canada,45,Astrology,18.672199170124482
+343,astrologer,44,Astrology,18.25726141078838
+344,expert,44,Astrology,18.25726141078838
+345,real,43,Astrology,17.842323651452283
+346,best,41,Astrology,17.012448132780083
+347,world,37,Astrology,15.352697095435685
+348,york,28,Astrology,11.618257261410788
+349,love,24,Astrology,9.95850622406639
+350,removal,20,Astrology,8.29875518672199
+351,marriage,17,Astrology,7.053941908713693
+352,kale,10,Astrology,4.149377593360995
+353,spell,10,Astrology,4.149377593360995
+354,palmist,9,Astrology,3.7344398340248963
+355,astrology,7,Astrology,2.904564315352697
+356,japan,7,Astrology,2.904564315352697
+357,horoscope,6,Astrology,2.4896265560165975
+358,free,4,Astrology,1.6597510373443984
+359,problem,4,Astrology,1.6597510373443984
+360,specialist,65,Dailies,28.50877192982456
+361,famous,43,Dailies,18.859649122807017
+362,expert,39,Dailies,17.105263157894736
+363,love,27,Dailies,11.842105263157894
+364,canada,26,Dailies,11.403508771929824
+365,world,26,Dailies,11.403508771929824
+366,york,22,Dailies,9.649122807017543
+367,marriage,19,Dailies,8.333333333333332
+368,real,18,Dailies,7.894736842105263
+369,astrologer,17,Dailies,7.456140350877193
+370,best,16,Dailies,7.017543859649122
+371,turkey,14,Dailies,6.140350877192982
+372,spell,13,Dailies,5.701754385964912
+373,contact,10,Dailies,4.385964912280701
+374,omen,10,Dailies,4.385964912280701
+375,japan,10,Dailies,4.385964912280701
+376,kale,8,Dailies,3.508771929824561
+377,back,7,Dailies,3.070175438596491
+378,tantric,5,Dailies,2.1929824561403506
+379,hungry,4,Dailies,1.7543859649122806
+380,data,84,Pandas,37.5
+381,python,59,Pandas,26.339285714285715
+382,science,23,Pandas,10.267857142857142
+383,analysis,20,Pandas,8.928571428571429
+384,part,18,Pandas,8.035714285714286
+385,learning,11,Pandas,4.910714285714286
+386,covid,10,Pandas,4.464285714285714
+387,strong,7,Pandas,3.125
+388,exploratory,6,Pandas,2.6785714285714284
+389,introduction,6,Pandas,2.6785714285714284
+390,series,6,Pandas,2.6785714285714284
+391,machine,5,Pandas,2.232142857142857
+392,cleaning,5,Pandas,2.232142857142857
+393,ways,5,Pandas,2.232142857142857
+394,case,4,Pandas,1.7857142857142856
+395,para,4,Pandas,1.7857142857142856
+396,basic,4,Pandas,1.7857142857142856
+397,library,4,Pandas,1.7857142857142856
+398,time,3,Pandas,1.3392857142857142
+399,foundation,3,Pandas,1.3392857142857142
+400,data,182,Data Scientist,88.3495145631068
+401,science,83,Data Scientist,40.29126213592233
+402,scientist,54,Data Scientist,26.21359223300971
+403,strong,24,Data Scientist,11.650485436893204
+404,learning,13,Data Scientist,6.310679611650485
+405,career,10,Data Scientist,4.854368932038835
+406,become,9,Data Scientist,4.368932038834951
+407,salary,7,Data Scientist,3.3980582524271843
+408,python,6,Data Scientist,2.912621359223301
+409,machine,6,Data Scientist,2.912621359223301
+410,best,6,Data Scientist,2.912621359223301
+411,analyst,6,Data Scientist,2.912621359223301
+412,part,6,Data Scientist,2.912621359223301
+413,need,5,Data Scientist,2.4271844660194173
+414,learn,5,Data Scientist,2.4271844660194173
+415,guide,4,Data Scientist,1.9417475728155338
+416,analysis,4,Data Scientist,1.9417475728155338
+417,make,4,Data Scientist,1.9417475728155338
+418,covid,4,Data Scientist,1.9417475728155338
+419,whats,4,Data Scientist,1.9417475728155338
+420,specialist,73,Art,36.318407960199
+421,canada,42,Art,20.8955223880597
+422,expert,40,Art,19.900497512437813
+423,york,30,Art,14.925373134328357
+424,best,29,Art,14.427860696517413
+425,astrologer,27,Art,13.432835820895523
+426,real,26,Art,12.935323383084576
+427,famous,25,Art,12.437810945273633
+428,world,21,Art,10.44776119402985
+429,love,21,Art,10.44776119402985
+430,removal,20,Art,9.950248756218906
+431,marriage,14,Art,6.965174129353234
+432,palmist,10,Art,4.975124378109453
+433,japan,9,Art,4.477611940298507
+434,horoscope,6,Art,2.9850746268656714
+435,kale,6,Art,2.9850746268656714
+436,essay,5,Art,2.4875621890547266
+437,astrology,4,Art,1.9900497512437811
+438,tantric,4,Art,1.9900497512437811
+439,today,3,Art,1.4925373134328357
+440,data,43,Towards Data Science,24.85549132947977
+441,science,24,Towards Data Science,13.872832369942195
+442,machine,18,Towards Data Science,10.404624277456648
+443,learning,17,Towards Data Science,9.826589595375722
+444,python,9,Towards Data Science,5.202312138728324
+445,analysis,9,Towards Data Science,5.202312138728324
+446,regression,7,Towards Data Science,4.046242774566474
+447,model,6,Towards Data Science,3.4682080924855487
+448,strong,6,Towards Data Science,3.4682080924855487
+449,learn,6,Towards Data Science,3.4682080924855487
+450,algorithm,6,Towards Data Science,3.4682080924855487
+451,part,5,Towards Data Science,2.8901734104046244
+452,project,5,Towards Data Science,2.8901734104046244
+453,feature,5,Towards Data Science,2.8901734104046244
+454,linear,4,Towards Data Science,2.312138728323699
+455,covid,4,Towards Data Science,2.312138728323699
+456,classification,4,Towards Data Science,2.312138728323699
+457,engineering,3,Towards Data Science,1.7341040462427744
+458,create,3,Towards Data Science,1.7341040462427744
+459,make,3,Towards Data Science,1.7341040462427744
+460,data,89,Data Engineering,51.74418604651163
+461,engineering,14,Data Engineering,8.13953488372093
+462,learning,13,Data Engineering,7.55813953488372
+463,machine,12,Data Engineering,6.976744186046512
+464,science,12,Data Engineering,6.976744186046512
+465,strong,12,Data Engineering,6.976744186046512
+466,engineer,8,Data Engineering,4.651162790697675
+467,python,7,Data Engineering,4.069767441860465
+468,scientist,7,Data Engineering,4.069767441860465
+469,spark,7,Data Engineering,4.069767441860465
+470,locked,7,Data Engineering,4.069767441860465
+471,busy,7,Data Engineering,4.069767441860465
+472,week,7,Data Engineering,4.069767441860465
+473,issue,5,Data Engineering,2.9069767441860463
+474,weekly,4,Data Engineering,2.3255813953488373
+475,prefect,4,Data Engineering,2.3255813953488373
+476,cloud,4,Data Engineering,2.3255813953488373
+477,pipeline,4,Data Engineering,2.3255813953488373
+478,span,4,Data Engineering,2.3255813953488373
+479,building,4,Data Engineering,2.3255813953488373
+480,neural,65,Neural Networks,40.625
+481,learning,28,Neural Networks,17.5
+482,network,28,Neural Networks,17.5
+483,deep,16,Neural Networks,10.0
+484,data,12,Neural Networks,7.5
+485,strong,10,Neural Networks,6.25
+486,machine,10,Neural Networks,6.25
+487,understanding,9,Neural Networks,5.625
+488,artificial,9,Neural Networks,5.625
+489,part,8,Neural Networks,5.0
+490,building,7,Neural Networks,4.375
+491,predict,6,Neural Networks,3.75
+492,python,6,Neural Networks,3.75
+493,scratch,6,Neural Networks,3.75
+494,science,6,Neural Networks,3.75
+495,introduction,5,Neural Networks,3.125
+496,prediction,5,Neural Networks,3.125
+497,build,4,Neural Networks,2.5
+498,basic,4,Neural Networks,2.5
+499,bias,4,Neural Networks,2.5
+500,data,112,Data Science Training,80.57553956834532
+501,science,92,Data Science Training,66.18705035971223
+502,strong,33,Data Science Training,23.741007194244602
+503,course,22,Data Science Training,15.827338129496402
+504,training,18,Data Science Training,12.949640287769784
+505,career,17,Data Science Training,12.23021582733813
+506,learning,10,Data Science Training,7.194244604316546
+507,best,9,Data Science Training,6.474820143884892
+508,scientist,9,Data Science Training,6.474820143884892
+509,analytics,5,Data Science Training,3.597122302158273
+510,path,5,Data Science Training,3.597122302158273
+511,learn,4,Data Science Training,2.877697841726619
+512,certification,4,Data Science Training,2.877697841726619
+513,choose,4,Data Science Training,2.877697841726619
+514,artificial,4,Data Science Training,2.877697841726619
+515,world,4,Data Science Training,2.877697841726619
+516,machine,4,Data Science Training,2.877697841726619
+517,salary,3,Data Science Training,2.158273381294964
+518,intelligence,3,Data Science Training,2.158273381294964
+519,program,3,Data Science Training,2.158273381294964
+520,data,37,R,26.811594202898554
+521,python,18,R,13.043478260869565
+522,science,14,R,10.144927536231885
+523,analysis,12,R,8.695652173913043
+524,covid,12,R,8.695652173913043
+525,strong,7,R,5.072463768115942
+526,part,6,R,4.3478260869565215
+527,twitter,5,R,3.6231884057971016
+528,learning,5,R,3.6231884057971016
+529,code,5,R,3.6231884057971016
+530,machine,4,R,2.898550724637681
+531,simple,4,R,2.898550724637681
+532,analytics,3,R,2.1739130434782608
+533,learn,3,R,2.1739130434782608
+534,para,3,R,2.1739130434782608
+535,modeling,3,R,2.1739130434782608
+536,statistics,3,R,2.1739130434782608
+537,easy,3,R,2.1739130434782608
+538,different,2,R,1.4492753623188406
+539,ways,2,R,1.4492753623188406
+540,data,57,Business,42.53731343283582
+541,business,27,Business,20.149253731343283
+542,science,24,Business,17.91044776119403
+543,analytics,11,Business,8.208955223880597
+544,strong,10,Business,7.462686567164178
+545,learning,9,Business,6.7164179104477615
+546,machine,8,Business,5.970149253731343
+547,intelligence,7,Business,5.223880597014925
+548,scientist,4,Business,2.9850746268656714
+549,mining,4,Business,2.9850746268656714
+550,make,3,Business,2.2388059701492535
+551,value,3,Business,2.2388059701492535
+552,introduction,3,Business,2.2388059701492535
+553,company,3,Business,2.2388059701492535
+554,building,3,Business,2.2388059701492535
+555,analysis,3,Business,2.2388059701492535
+556,driven,2,Business,1.4925373134328357
+557,artificial,2,Business,1.4925373134328357
+558,world,2,Business,1.4925373134328357
+559,help,2,Business,1.4925373134328357
+560,specialist,38,Advertising,28.35820895522388
+561,expert,25,Advertising,18.65671641791045
+562,love,21,Advertising,15.671641791044777
+563,york,19,Advertising,14.17910447761194
+564,turkey,19,Advertising,14.17910447761194
+565,real,16,Advertising,11.940298507462686
+566,omen,16,Advertising,11.940298507462686
+567,contact,15,Advertising,11.194029850746269
+568,canada,14,Advertising,10.44776119402985
+569,spell,14,Advertising,10.44776119402985
+570,back,11,Advertising,8.208955223880597
+571,marriage,8,Advertising,5.970149253731343
+572,famous,8,Advertising,5.970149253731343
+573,near,5,Advertising,3.731343283582089
+574,hungry,5,Advertising,3.731343283582089
+575,best,4,Advertising,2.9850746268656714
+576,data,4,Advertising,2.9850746268656714
+577,marketing,4,Advertising,2.9850746268656714
+578,removal,4,Advertising,2.9850746268656714
+579,astrologer,4,Advertising,2.9850746268656714
+580,data,30,Airbnb,22.900763358778626
+581,boston,24,Airbnb,18.3206106870229
+582,analysis,17,Airbnb,12.977099236641221
+583,strong,12,Airbnb,9.16030534351145
+584,price,9,Airbnb,6.870229007633588
+585,science,7,Airbnb,5.343511450381679
+586,market,7,Airbnb,5.343511450381679
+587,host,6,Airbnb,4.580152671755725
+588,know,6,Airbnb,4.580152671755725
+589,stay,5,Airbnb,3.816793893129771
+590,make,5,Airbnb,3.816793893129771
+591,city,5,Airbnb,3.816793893129771
+592,business,4,Airbnb,3.0534351145038165
+593,need,4,Airbnb,3.0534351145038165
+594,berlin,4,Airbnb,3.0534351145038165
+595,deep,3,Airbnb,2.2900763358778624
+596,part,3,Airbnb,2.2900763358778624
+597,trip,3,Airbnb,2.2900763358778624
+598,visit,3,Airbnb,2.2900763358778624
+599,house,3,Airbnb,2.2900763358778624
+600,specialist,37,Dating,28.46153846153846
+601,famous,26,Dating,20.0
+602,expert,23,Dating,17.692307692307693
+603,real,18,Dating,13.846153846153847
+604,world,16,Dating,12.307692307692308
+605,love,12,Dating,9.230769230769232
+606,canada,12,Dating,9.230769230769232
+607,best,10,Dating,7.6923076923076925
+608,marriage,9,Dating,6.923076923076923
+609,york,9,Dating,6.923076923076923
+610,astrologer,9,Dating,6.923076923076923
+611,spell,6,Dating,4.615384615384616
+612,contact,5,Dating,3.8461538461538463
+613,turkey,5,Dating,3.8461538461538463
+614,japan,5,Dating,3.8461538461538463
+615,omen,4,Dating,3.076923076923077
+616,kale,4,Dating,3.076923076923077
+617,removal,3,Dating,2.307692307692308
+618,back,3,Dating,2.307692307692308
+619,number,2,Dating,1.5384615384615385
+620,data,46,Business Intelligence,35.9375
+621,business,22,Business Intelligence,17.1875
+622,science,14,Business Intelligence,10.9375
+623,strong,14,Business Intelligence,10.9375
+624,intelligence,13,Business Intelligence,10.15625
+625,analytics,11,Business Intelligence,8.59375
+626,para,6,Business Intelligence,4.6875
+627,part,6,Business Intelligence,4.6875
+628,weekly,5,Business Intelligence,3.90625
+629,issue,4,Business Intelligence,3.125
+630,python,4,Business Intelligence,3.125
+631,power,3,Business Intelligence,2.34375
+632,tableau,3,Business Intelligence,2.34375
+633,dashboard,3,Business Intelligence,2.34375
+634,analysis,3,Business Intelligence,2.34375
+635,best,3,Business Intelligence,2.34375
+636,chapter,3,Business Intelligence,2.34375
+637,analytical,2,Business Intelligence,1.5625
+638,churn,2,Business Intelligence,1.5625
+639,machine,2,Business Intelligence,1.5625
+640,part,20,Computer Vision,16.0
+641,learning,20,Computer Vision,16.0
+642,image,18,Computer Vision,14.399999999999999
+643,detection,18,Computer Vision,14.399999999999999
+644,data,16,Computer Vision,12.8
+645,computer,13,Computer Vision,10.4
+646,vision,13,Computer Vision,10.4
+647,object,11,Computer Vision,8.799999999999999
+648,deep,10,Computer Vision,8.0
+649,machine,9,Computer Vision,7.199999999999999
+650,science,8,Computer Vision,6.4
+651,week,5,Computer Vision,4.0
+652,classification,5,Computer Vision,4.0
+653,network,5,Computer Vision,4.0
+654,face,4,Computer Vision,3.2
+655,recognition,4,Computer Vision,3.2
+656,time,4,Computer Vision,3.2
+657,paper,4,Computer Vision,3.2
+658,custom,4,Computer Vision,3.2
+659,model,4,Computer Vision,3.2
+660,data,17,Mathematics,14.285714285714285
+661,mathematics,16,Mathematics,13.445378151260504
+662,learning,13,Mathematics,10.92436974789916
+663,science,12,Mathematics,10.084033613445378
+664,machine,12,Mathematics,10.084033613445378
+665,linear,10,Mathematics,8.403361344537815
+666,python,8,Mathematics,6.722689075630252
+667,algebra,6,Mathematics,5.042016806722689
+668,neural,6,Mathematics,5.042016806722689
+669,covid,6,Mathematics,5.042016806722689
+670,statistics,5,Mathematics,4.201680672268908
+671,role,5,Mathematics,4.201680672268908
+672,hypothesis,5,Mathematics,4.201680672268908
+673,regression,5,Mathematics,4.201680672268908
+674,math,4,Mathematics,3.361344537815126
+675,function,4,Mathematics,3.361344537815126
+676,testing,4,Mathematics,3.361344537815126
+677,dont,4,Mathematics,3.361344537815126
+678,introduction,3,Mathematics,2.5210084033613445
+679,complete,3,Mathematics,2.5210084033613445
+680,data,45,Education,38.13559322033898
+681,science,28,Education,23.728813559322035
+682,learning,23,Education,19.491525423728813
+683,machine,18,Education,15.254237288135593
+684,strong,17,Education,14.40677966101695
+685,easily,10,Education,8.47457627118644
+686,scientist,8,Education,6.779661016949152
+687,analyst,7,Education,5.932203389830509
+688,regression,6,Education,5.084745762711865
+689,education,6,Education,5.084745762711865
+690,analytics,5,Education,4.23728813559322
+691,intelligence,5,Education,4.23728813559322
+692,part,4,Education,3.389830508474576
+693,linear,4,Education,3.389830508474576
+694,artificial,4,Education,3.389830508474576
+695,become,3,Education,2.5423728813559325
+696,program,3,Education,2.5423728813559325
+697,learn,3,Education,2.5423728813559325
+698,need,3,Education,2.5423728813559325
+699,research,3,Education,2.5423728813559325
+700,data,31,Software Development,26.495726495726498
+701,learning,16,Software Development,13.675213675213676
+702,science,15,Software Development,12.82051282051282
+703,machine,15,Software Development,12.82051282051282
+704,python,12,Software Development,10.256410256410255
+705,code,5,Software Development,4.273504273504273
+706,part,5,Software Development,4.273504273504273
+707,tech,5,Software Development,4.273504273504273
+708,cloud,5,Software Development,4.273504273504273
+709,building,4,Software Development,3.418803418803419
+710,getting,4,Software Development,3.418803418803419
+711,world,4,Software Development,3.418803418803419
+712,strong,4,Software Development,3.418803418803419
+713,engineering,4,Software Development,3.418803418803419
+714,analytics,3,Software Development,2.564102564102564
+715,developer,3,Software Development,2.564102564102564
+716,introduction,3,Software Development,2.564102564102564
+717,build,3,Software Development,2.564102564102564
+718,make,3,Software Development,2.564102564102564
+719,production,3,Software Development,2.564102564102564
+720,science,22,Computer Science,18.803418803418804
+721,data,20,Computer Science,17.094017094017094
+722,learning,17,Computer Science,14.529914529914532
+723,python,14,Computer Science,11.965811965811966
+724,machine,12,Computer Science,10.256410256410255
+725,part,9,Computer Science,7.6923076923076925
+726,computer,6,Computer Science,5.128205128205128
+727,covid,6,Computer Science,5.128205128205128
+728,analysis,5,Computer Science,4.273504273504273
+729,computational,3,Computer Science,2.564102564102564
+730,introduction,3,Computer Science,2.564102564102564
+731,guide,3,Computer Science,2.564102564102564
+732,reinforcement,3,Computer Science,2.564102564102564
+733,strong,3,Computer Science,2.564102564102564
+734,project,3,Computer Science,2.564102564102564
+735,deep,3,Computer Science,2.564102564102564
+736,string,3,Computer Science,2.564102564102564
+737,simple,2,Computer Science,1.7094017094017095
+738,getting,2,Computer Science,1.7094017094017095
+739,change,2,Computer Science,1.7094017094017095
+740,python,65,Python Programming,56.52173913043478
+741,data,37,Python Programming,32.17391304347826
+742,science,21,Python Programming,18.26086956521739
+743,part,8,Python Programming,6.956521739130435
+744,strong,7,Python Programming,6.086956521739131
+745,analysis,6,Python Programming,5.217391304347826
+746,introduction,5,Python Programming,4.3478260869565215
+747,learning,5,Python Programming,4.3478260869565215
+748,language,4,Python Programming,3.4782608695652173
+749,algorithm,4,Python Programming,3.4782608695652173
+750,scraping,4,Python Programming,3.4782608695652173
+751,interview,3,Python Programming,2.608695652173913
+752,building,3,Python Programming,2.608695652173913
+753,model,3,Python Programming,2.608695652173913
+754,guide,3,Python Programming,2.608695652173913
+755,list,3,Python Programming,2.608695652173913
+756,machine,3,Python Programming,2.608695652173913
+757,classification,2,Python Programming,1.7391304347826086
+758,install,2,Python Programming,1.7391304347826086
+759,best,2,Python Programming,1.7391304347826086
+760,language,27,Naturallanguageprocessing,23.684210526315788
+761,natural,18,Naturallanguageprocessing,15.789473684210526
+762,strong,11,Naturallanguageprocessing,9.649122807017543
+763,learning,10,Naturallanguageprocessing,8.771929824561402
+764,machine,9,Naturallanguageprocessing,7.894736842105263
+765,text,7,Naturallanguageprocessing,6.140350877192982
+766,data,7,Naturallanguageprocessing,6.140350877192982
+767,python,6,Naturallanguageprocessing,5.263157894736842
+768,sentiment,6,Naturallanguageprocessing,5.263157894736842
+769,analysis,5,Naturallanguageprocessing,4.385964912280701
+770,mallet,4,Naturallanguageprocessing,3.508771929824561
+771,part,4,Naturallanguageprocessing,3.508771929824561
+772,classification,4,Naturallanguageprocessing,3.508771929824561
+773,model,4,Naturallanguageprocessing,3.508771929824561
+774,covid,4,Naturallanguageprocessing,3.508771929824561
+775,feature,3,Naturallanguageprocessing,2.631578947368421
+776,news,3,Naturallanguageprocessing,2.631578947368421
+777,science,3,Naturallanguageprocessing,2.631578947368421
+778,naive,3,Naturallanguageprocessing,2.631578947368421
+779,word,3,Naturallanguageprocessing,2.631578947368421
+780,data,28,Visualization,24.778761061946902
+781,visualization,19,Visualization,16.8141592920354
+782,covid,15,Visualization,13.274336283185843
+783,python,9,Visualization,7.964601769911504
+784,analysis,9,Visualization,7.964601769911504
+785,part,8,Visualization,7.079646017699115
+786,science,7,Visualization,6.1946902654867255
+787,interactive,5,Visualization,4.424778761061947
+788,visualize,3,Visualization,2.6548672566371683
+789,power,3,Visualization,2.6548672566371683
+790,tableau,3,Visualization,2.6548672566371683
+791,understanding,2,Visualization,1.7699115044247788
+792,analytics,2,Visualization,1.7699115044247788
+793,cloud,2,Visualization,1.7699115044247788
+794,machine,2,Visualization,1.7699115044247788
+795,house,2,Visualization,1.7699115044247788
+796,useful,2,Visualization,1.7699115044247788
+797,chart,2,Visualization,1.7699115044247788
+798,strong,2,Visualization,1.7699115044247788
+799,project,2,Visualization,1.7699115044247788
+800,data,31,Algorithms,27.43362831858407
+801,learning,19,Algorithms,16.8141592920354
+802,strong,18,Algorithms,15.929203539823009
+803,science,16,Algorithms,14.15929203539823
+804,machine,16,Algorithms,14.15929203539823
+805,regression,10,Algorithms,8.849557522123893
+806,algorithm,10,Algorithms,8.849557522123893
+807,scratch,7,Algorithms,6.1946902654867255
+808,linear,6,Algorithms,5.3097345132743365
+809,python,6,Algorithms,5.3097345132743365
+810,graph,6,Algorithms,5.3097345132743365
+811,understanding,5,Algorithms,4.424778761061947
+812,analysis,4,Algorithms,3.5398230088495577
+813,ways,4,Algorithms,3.5398230088495577
+814,learn,4,Algorithms,3.5398230088495577
+815,know,4,Algorithms,3.5398230088495577
+816,logistic,4,Algorithms,3.5398230088495577
+817,understand,3,Algorithms,2.6548672566371683
+818,behind,3,Algorithms,2.6548672566371683
+819,part,3,Algorithms,2.6548672566371683
+820,data,43,Database,39.44954128440367
+821,science,8,Database,7.339449541284404
+822,strong,8,Database,7.339449541284404
+823,scientist,6,Database,5.5045871559633035
+824,python,6,Database,5.5045871559633035
+825,learning,5,Database,4.587155963302752
+826,analysis,5,Database,4.587155963302752
+827,part,4,Database,3.669724770642202
+828,learn,3,Database,2.7522935779816518
+829,graph,3,Database,2.7522935779816518
+830,used,3,Database,2.7522935779816518
+831,world,3,Database,2.7522935779816518
+832,analytics,2,Database,1.834862385321101
+833,journey,2,Database,1.834862385321101
+834,query,2,Database,1.834862385321101
+835,server,2,Database,1.834862385321101
+836,guide,2,Database,1.834862385321101
+837,introduction,2,Database,1.834862385321101
+838,bases,2,Database,1.834862385321101
+839,custom,2,Database,1.834862385321101
+840,scraping,54,Web Scraping,51.42857142857142
+841,python,27,Web Scraping,25.71428571428571
+842,data,23,Web Scraping,21.904761904761905
+843,scrape,6,Web Scraping,5.714285714285714
+844,covid,5,Web Scraping,4.761904761904762
+845,beautiful,5,Web Scraping,4.761904761904762
+846,soup,5,Web Scraping,4.761904761904762
+847,guide,5,Web Scraping,4.761904761904762
+848,scrapy,4,Web Scraping,3.8095238095238098
+849,easy,4,Web Scraping,3.8095238095238098
+850,twitter,4,Web Scraping,3.8095238095238098
+851,strong,4,Web Scraping,3.8095238095238098
+852,news,3,Web Scraping,2.857142857142857
+853,analysis,3,Web Scraping,2.857142857142857
+854,scrapping,3,Web Scraping,2.857142857142857
+855,introduction,3,Web Scraping,2.857142857142857
+856,market,3,Web Scraping,2.857142857142857
+857,learn,3,Web Scraping,2.857142857142857
+858,para,3,Web Scraping,2.857142857142857
+859,selenium,3,Web Scraping,2.857142857142857
+860,notebook,25,Jupyter Notebook,24.271844660194176
+861,data,22,Jupyter Notebook,21.35922330097087
+862,science,15,Jupyter Notebook,14.563106796116504
+863,python,11,Jupyter Notebook,10.679611650485436
+864,covid,8,Jupyter Notebook,7.766990291262135
+865,analysis,8,Jupyter Notebook,7.766990291262135
+866,introduction,6,Jupyter Notebook,5.825242718446602
+867,strong,5,Jupyter Notebook,4.854368932038835
+868,docker,4,Jupyter Notebook,3.8834951456310676
+869,anaconda,4,Jupyter Notebook,3.8834951456310676
+870,part,4,Jupyter Notebook,3.8834951456310676
+871,machine,4,Jupyter Notebook,3.8834951456310676
+872,easy,3,Jupyter Notebook,2.912621359223301
+873,getting,3,Jupyter Notebook,2.912621359223301
+874,install,3,Jupyter Notebook,2.912621359223301
+875,building,3,Jupyter Notebook,2.912621359223301
+876,gentle,3,Jupyter Notebook,2.912621359223301
+877,version,2,Jupyter Notebook,1.9417475728155338
+878,control,2,Jupyter Notebook,1.9417475728155338
+879,favorite,2,Jupyter Notebook,1.9417475728155338
+880,linear,68,Linear Regression,66.01941747572816
+881,regression,61,Linear Regression,59.22330097087378
+882,model,13,Linear Regression,12.62135922330097
+883,learning,11,Linear Regression,10.679611650485436
+884,python,10,Linear Regression,9.70873786407767
+885,machine,10,Linear Regression,9.70873786407767
+886,data,8,Linear Regression,7.766990291262135
+887,introduction,6,Linear Regression,5.825242718446602
+888,multiple,5,Linear Regression,4.854368932038835
+889,gradient,5,Linear Regression,4.854368932038835
+890,descent,5,Linear Regression,4.854368932038835
+891,science,5,Linear Regression,4.854368932038835
+892,price,5,Linear Regression,4.854368932038835
+893,part,4,Linear Regression,3.8834951456310676
+894,house,4,Linear Regression,3.8834951456310676
+895,implementation,3,Linear Regression,2.912621359223301
+896,learn,3,Linear Regression,2.912621359223301
+897,guide,3,Linear Regression,2.912621359223301
+898,prediction,3,Linear Regression,2.912621359223301
+899,case,3,Linear Regression,2.912621359223301
+900,specialist,57,Travel,55.33980582524271
+901,canada,23,Travel,22.330097087378643
+902,best,22,Travel,21.35922330097087
+903,astrologer,20,Travel,19.41747572815534
+904,expert,20,Travel,19.41747572815534
+905,removal,18,Travel,17.475728155339805
+906,york,17,Travel,16.50485436893204
+907,real,17,Travel,16.50485436893204
+908,world,11,Travel,10.679611650485436
+909,famous,11,Travel,10.679611650485436
+910,palmist,9,Travel,8.737864077669903
+911,data,8,Travel,7.766990291262135
+912,love,6,Travel,5.825242718446602
+913,horoscope,5,Travel,4.854368932038835
+914,strong,4,Travel,3.8834951456310676
+915,kale,4,Travel,3.8834951456310676
+916,today,3,Travel,2.912621359223301
+917,guess,3,Travel,2.912621359223301
+918,paper,3,Travel,2.912621359223301
+919,back,3,Travel,2.912621359223301
+920,data,36,Sql,36.734693877551024
+921,science,12,Sql,12.244897959183673
+922,python,8,Sql,8.16326530612245
+923,strong,6,Sql,6.122448979591836
+924,query,5,Sql,5.1020408163265305
+925,scientist,5,Sql,5.1020408163265305
+926,part,4,Sql,4.081632653061225
+927,server,4,Sql,4.081632653061225
+928,learn,4,Sql,4.081632653061225
+929,introduction,3,Sql,3.061224489795918
+930,analysis,3,Sql,3.061224489795918
+931,easy,3,Sql,3.061224489795918
+932,file,3,Sql,3.061224489795918
+933,become,3,Sql,3.061224489795918
+934,analytics,3,Sql,3.061224489795918
+935,join,3,Sql,3.061224489795918
+936,excel,2,Sql,2.0408163265306123
+937,common,2,Sql,2.0408163265306123
+938,step,2,Sql,2.0408163265306123
+939,cross,2,Sql,2.0408163265306123
+940,data,45,Data Mining,46.391752577319586
+941,mining,23,Data Mining,23.711340206185564
+942,science,11,Data Mining,11.34020618556701
+943,analysis,10,Data Mining,10.309278350515463
+944,covid,7,Data Mining,7.216494845360824
+945,part,6,Data Mining,6.185567010309279
+946,model,6,Data Mining,6.185567010309279
+947,neighbor,6,Data Mining,6.185567010309279
+948,machine,5,Data Mining,5.154639175257731
+949,learning,4,Data Mining,4.123711340206185
+950,python,4,Data Mining,4.123711340206185
+951,market,3,Data Mining,3.0927835051546393
+952,basket,3,Data Mining,3.0927835051546393
+953,application,3,Data Mining,3.0927835051546393
+954,process,3,Data Mining,3.0927835051546393
+955,news,3,Data Mining,3.0927835051546393
+956,strong,2,Data Mining,2.0618556701030926
+957,ways,2,Data Mining,2.0618556701030926
+958,performance,2,Data Mining,2.0618556701030926
+959,text,2,Data Mining,2.0618556701030926
+960,data,59,Learning,61.458333333333336
+961,science,41,Learning,42.70833333333333
+962,learning,19,Learning,19.791666666666664
+963,journey,11,Learning,11.458333333333332
+964,scientist,8,Learning,8.333333333333332
+965,machine,8,Learning,8.333333333333332
+966,strong,6,Learning,6.25
+967,learn,5,Learning,5.208333333333334
+968,start,4,Learning,4.166666666666666
+969,python,4,Learning,4.166666666666666
+970,world,4,Learning,4.166666666666666
+971,first,3,Learning,3.125
+972,course,3,Learning,3.125
+973,power,3,Learning,3.125
+974,understanding,3,Learning,3.125
+975,path,2,Learning,2.083333333333333
+976,learned,2,Learning,2.083333333333333
+977,program,2,Learning,2.083333333333333
+978,month,2,Learning,2.083333333333333
+979,career,2,Learning,2.083333333333333
+980,data,25,Udacity,26.31578947368421
+981,science,11,Udacity,11.578947368421053
+982,analysis,11,Udacity,11.578947368421053
+983,customer,11,Udacity,11.578947368421053
+984,capstone,10,Udacity,10.526315789473683
+985,boston,7,Udacity,7.368421052631578
+986,strong,7,Udacity,7.368421052631578
+987,challenge,6,Udacity,6.315789473684211
+988,make,6,Udacity,6.315789473684211
+989,project,6,Udacity,6.315789473684211
+990,offer,5,Udacity,5.263157894736842
+991,learning,5,Udacity,5.263157894736842
+992,machine,4,Udacity,4.2105263157894735
+993,segmentation,4,Udacity,4.2105263157894735
+994,covid,4,Udacity,4.2105263157894735
+995,identify,3,Udacity,3.1578947368421053
+996,breed,3,Udacity,3.1578947368421053
+997,classifier,3,Udacity,3.1578947368421053
+998,measure,2,Udacity,2.1052631578947367
+999,success,2,Udacity,2.1052631578947367
+1000,data,23,Science,24.46808510638298
+1001,science,19,Science,20.212765957446805
+1002,newsletter,11,Science,11.702127659574469
+1003,computational,4,Science,4.25531914893617
+1004,covid,4,Science,4.25531914893617
+1005,part,3,Science,3.1914893617021276
+1006,business,3,Science,3.1914893617021276
+1007,strong,3,Science,3.1914893617021276
+1008,text,3,Science,3.1914893617021276
+1009,technology,3,Science,3.1914893617021276
+1010,statistics,3,Science,3.1914893617021276
+1011,spotlight,3,Science,3.1914893617021276
+1012,learning,3,Science,3.1914893617021276
+1013,meet,3,Science,3.1914893617021276
+1014,researcher,3,Science,3.1914893617021276
+1015,machine,3,Science,3.1914893617021276
+1016,york,2,Science,2.127659574468085
+1017,city,2,Science,2.127659574468085
+1018,efficiency,2,Science,2.127659574468085
+1019,digest,2,Science,2.127659574468085
+1020,python,49,Python3,52.68817204301075
+1021,data,21,Python3,22.58064516129032
+1022,science,10,Python3,10.75268817204301
+1023,learning,8,Python3,8.60215053763441
+1024,deep,5,Python3,5.376344086021505
+1025,introduction,5,Python3,5.376344086021505
+1026,machine,4,Python3,4.301075268817205
+1027,dive,3,Python3,3.225806451612903
+1028,scraping,3,Python3,3.225806451612903
+1029,analysis,3,Python3,3.225806451612903
+1030,part,3,Python3,3.225806451612903
+1031,install,3,Python3,3.225806451612903
+1032,covid,3,Python3,3.225806451612903
+1033,training,3,Python3,3.225806451612903
+1034,language,3,Python3,3.225806451612903
+1035,lambda,2,Python3,2.1505376344086025
+1036,anaconda,2,Python3,2.1505376344086025
+1037,list,2,Python3,2.1505376344086025
+1038,algorithm,2,Python3,2.1505376344086025
+1039,categorical,2,Python3,2.1505376344086025
+1040,data,56,Exploratory Data Analysis,61.53846153846154
+1041,analysis,34,Exploratory Data Analysis,37.362637362637365
+1042,exploratory,25,Exploratory Data Analysis,27.472527472527474
+1043,python,11,Exploratory Data Analysis,12.087912087912088
+1044,part,7,Exploratory Data Analysis,7.6923076923076925
+1045,science,6,Exploratory Data Analysis,6.593406593406594
+1046,prediction,6,Exploratory Data Analysis,6.593406593406594
+1047,strong,5,Exploratory Data Analysis,5.4945054945054945
+1048,visualization,4,Exploratory Data Analysis,4.395604395604396
+1049,covid,4,Exploratory Data Analysis,4.395604395604396
+1050,project,4,Exploratory Data Analysis,4.395604395604396
+1051,machine,4,Exploratory Data Analysis,4.395604395604396
+1052,learning,4,Exploratory Data Analysis,4.395604395604396
+1053,guide,3,Exploratory Data Analysis,3.296703296703297
+1054,cleaning,3,Exploratory Data Analysis,3.296703296703297
+1055,cancer,2,Exploratory Data Analysis,2.197802197802198
+1056,finding,2,Exploratory Data Analysis,2.197802197802198
+1057,hotel,2,Exploratory Data Analysis,2.197802197802198
+1058,corona,2,Exploratory Data Analysis,2.197802197802198
+1059,virus,2,Exploratory Data Analysis,2.197802197802198
+1060,data,27,Kaggle,30.0
+1061,science,14,Kaggle,15.555555555555555
+1062,learning,12,Kaggle,13.333333333333334
+1063,machine,11,Kaggle,12.222222222222221
+1064,prediction,6,Kaggle,6.666666666666667
+1065,classification,6,Kaggle,6.666666666666667
+1066,part,5,Kaggle,5.555555555555555
+1067,strong,5,Kaggle,5.555555555555555
+1068,getting,5,Kaggle,5.555555555555555
+1069,titanic,5,Kaggle,5.555555555555555
+1070,covid,4,Kaggle,4.444444444444445
+1071,analysis,3,Kaggle,3.3333333333333335
+1072,challenge,3,Kaggle,3.3333333333333335
+1073,price,3,Kaggle,3.3333333333333335
+1074,disaster,3,Kaggle,3.3333333333333335
+1075,deep,3,Kaggle,3.3333333333333335
+1076,project,3,Kaggle,3.3333333333333335
+1077,competition,2,Kaggle,2.2222222222222223
+1078,when,2,Kaggle,2.2222222222222223
+1079,house,2,Kaggle,2.2222222222222223
+1080,data,59,Careers,66.29213483146067
+1081,science,40,Careers,44.9438202247191
+1082,career,15,Careers,16.853932584269664
+1083,strong,11,Careers,12.359550561797752
+1084,scientist,9,Careers,10.112359550561797
+1085,analytics,7,Careers,7.865168539325842
+1086,learning,5,Careers,5.617977528089887
+1087,learn,4,Careers,4.49438202247191
+1088,path,4,Careers,4.49438202247191
+1089,machine,4,Careers,4.49438202247191
+1090,hired,3,Careers,3.3707865168539324
+1091,become,3,Careers,3.3707865168539324
+1092,choose,3,Careers,3.3707865168539324
+1093,world,3,Careers,3.3707865168539324
+1094,guide,3,Careers,3.3707865168539324
+1095,professional,2,Careers,2.247191011235955
+1096,degree,2,Careers,2.247191011235955
+1097,journey,2,Careers,2.247191011235955
+1098,want,2,Careers,2.247191011235955
+1099,engineer,2,Careers,2.247191011235955
+1100,classification,29,Classification,32.95454545454545
+1101,machine,13,Classification,14.772727272727273
+1102,learning,13,Classification,14.772727272727273
+1103,data,11,Classification,12.5
+1104,prediction,6,Classification,6.8181818181818175
+1105,naive,6,Classification,6.8181818181818175
+1106,part,6,Classification,6.8181818181818175
+1107,model,5,Classification,5.681818181818182
+1108,heart,4,Classification,4.545454545454546
+1109,project,4,Classification,4.545454545454546
+1110,logistic,4,Classification,4.545454545454546
+1111,regression,4,Classification,4.545454545454546
+1112,classifier,4,Classification,4.545454545454546
+1113,science,4,Classification,4.545454545454546
+1114,disease,3,Classification,3.4090909090909087
+1115,credit,3,Classification,3.4090909090909087
+1116,disaster,3,Classification,3.4090909090909087
+1117,churn,3,Classification,3.4090909090909087
+1118,understanding,3,Classification,3.4090909090909087
+1119,metrics,3,Classification,3.4090909090909087
+1120,data,17,AWS,20.238095238095237
+1121,learning,13,AWS,15.476190476190476
+1122,machine,12,AWS,14.285714285714285
+1123,lambda,7,AWS,8.333333333333332
+1124,episode,4,AWS,4.761904761904762
+1125,cloud,4,AWS,4.761904761904762
+1126,python,4,AWS,4.761904761904762
+1127,real,4,AWS,4.761904761904762
+1128,famous,4,AWS,4.761904761904762
+1129,pipeline,3,AWS,3.571428571428571
+1130,best,3,AWS,3.571428571428571
+1131,lake,3,AWS,3.571428571428571
+1132,expert,3,AWS,3.571428571428571
+1133,world,3,AWS,3.571428571428571
+1134,canada,3,AWS,3.571428571428571
+1135,function,2,AWS,2.380952380952381
+1136,notebook,2,AWS,2.380952380952381
+1137,forecast,2,AWS,2.380952380952381
+1138,complete,2,AWS,2.380952380952381
+1139,guide,2,AWS,2.380952380952381
+1140,python,21,Coding,25.609756097560975
+1141,data,20,Coding,24.390243902439025
+1142,science,11,Coding,13.414634146341465
+1143,strong,7,Coding,8.536585365853659
+1144,code,5,Coding,6.097560975609756
+1145,journey,5,Coding,6.097560975609756
+1146,part,5,Coding,6.097560975609756
+1147,machine,5,Coding,6.097560975609756
+1148,learning,5,Coding,6.097560975609756
+1149,string,4,Coding,4.878048780487805
+1150,know,3,Coding,3.6585365853658534
+1151,scientist,2,Coding,2.4390243902439024
+1152,need,2,Coding,2.4390243902439024
+1153,becoming,2,Coding,2.4390243902439024
+1154,object,2,Coding,2.4390243902439024
+1155,detection,2,Coding,2.4390243902439024
+1156,writing,2,Coding,2.4390243902439024
+1157,covid,2,Coding,2.4390243902439024
+1158,finding,2,Coding,2.4390243902439024
+1159,second,2,Coding,2.4390243902439024
+1160,specialist,31,Advice,37.80487804878049
+1161,york,16,Advice,19.51219512195122
+1162,turkey,16,Advice,19.51219512195122
+1163,astrologer,15,Advice,18.29268292682927
+1164,expert,14,Advice,17.073170731707318
+1165,omen,14,Advice,17.073170731707318
+1166,love,13,Advice,15.853658536585366
+1167,real,12,Advice,14.634146341463413
+1168,contact,11,Advice,13.414634146341465
+1169,spell,11,Advice,13.414634146341465
+1170,back,10,Advice,12.195121951219512
+1171,data,7,Advice,8.536585365853659
+1172,near,5,Advice,6.097560975609756
+1173,famous,5,Advice,6.097560975609756
+1174,canada,4,Advice,4.878048780487805
+1175,removal,4,Advice,4.878048780487805
+1176,hungry,4,Advice,4.878048780487805
+1177,horoscope,3,Advice,3.6585365853658534
+1178,today,3,Advice,3.6585365853658534
+1179,episode,3,Advice,3.6585365853658534
+1180,data,27,Startup,34.177215189873415
+1181,strong,10,Startup,12.658227848101266
+1182,science,9,Startup,11.39240506329114
+1183,learning,5,Startup,6.329113924050633
+1184,analytics,5,Startup,6.329113924050633
+1185,build,5,Startup,6.329113924050633
+1186,covid,5,Startup,6.329113924050633
+1187,scientist,4,Startup,5.063291139240507
+1188,machine,4,Startup,5.063291139240507
+1189,analysis,4,Startup,5.063291139240507
+1190,testing,3,Startup,3.79746835443038
+1191,building,3,Startup,3.79746835443038
+1192,journey,3,Startup,3.79746835443038
+1193,ways,3,Startup,3.79746835443038
+1194,business,3,Startup,3.79746835443038
+1195,series,2,Startup,2.5316455696202533
+1196,retention,2,Startup,2.5316455696202533
+1197,growth,2,Startup,2.5316455696202533
+1198,best,2,Startup,2.5316455696202533
+1199,important,2,Startup,2.5316455696202533
+1200,data,64,Big Data Analytics,81.0126582278481
+1201,science,15,Big Data Analytics,18.9873417721519
+1202,strong,9,Big Data Analytics,11.39240506329114
+1203,analytics,7,Big Data Analytics,8.860759493670885
+1204,intelligence,4,Big Data Analytics,5.063291139240507
+1205,covid,4,Big Data Analytics,5.063291139240507
+1206,industry,3,Big Data Analytics,3.79746835443038
+1207,analysis,3,Big Data Analytics,3.79746835443038
+1208,business,3,Big Data Analytics,3.79746835443038
+1209,career,3,Big Data Analytics,3.79746835443038
+1210,potential,3,Big Data Analytics,3.79746835443038
+1211,whats,3,Big Data Analytics,3.79746835443038
+1212,interview,2,Big Data Analytics,2.5316455696202533
+1213,machine,2,Big Data Analytics,2.5316455696202533
+1214,development,2,Big Data Analytics,2.5316455696202533
+1215,different,2,Big Data Analytics,2.5316455696202533
+1216,excel,2,Big Data Analytics,2.5316455696202533
+1217,application,2,Big Data Analytics,2.5316455696202533
+1218,need,2,Big Data Analytics,2.5316455696202533
+1219,must,2,Big Data Analytics,2.5316455696202533
+1220,covid,32,Health,41.02564102564102
+1221,data,16,Health,20.51282051282051
+1222,health,8,Health,10.256410256410255
+1223,strong,7,Health,8.974358974358974
+1224,analysis,5,Health,6.41025641025641
+1225,science,5,Health,6.41025641025641
+1226,artificial,3,Health,3.8461538461538463
+1227,intelligence,3,Health,3.8461538461538463
+1228,corona,3,Health,3.8461538461538463
+1229,survey,2,Health,2.564102564102564
+1230,york,2,Health,2.564102564102564
+1231,city,2,Health,2.564102564102564
+1232,visualization,2,Health,2.564102564102564
+1233,digest,2,Health,2.564102564102564
+1234,week,2,Health,2.564102564102564
+1235,impact,2,Health,2.564102564102564
+1236,virus,2,Health,2.564102564102564
+1237,disease,2,Health,2.564102564102564
+1238,look,2,Health,2.564102564102564
+1239,like,2,Health,2.564102564102564
+1240,data,15,Analysis,19.230769230769234
+1241,analysis,14,Analysis,17.94871794871795
+1242,science,9,Analysis,11.538461538461538
+1243,covid,4,Analysis,5.128205128205128
+1244,feature,3,Analysis,3.8461538461538463
+1245,time,3,Analysis,3.8461538461538463
+1246,popular,3,Analysis,3.8461538461538463
+1247,python,3,Analysis,3.8461538461538463
+1248,strong,3,Analysis,3.8461538461538463
+1249,income,2,Analysis,2.564102564102564
+1250,basic,2,Analysis,2.564102564102564
+1251,market,2,Analysis,2.564102564102564
+1252,statistics,2,Analysis,2.564102564102564
+1253,common,2,Analysis,2.564102564102564
+1254,next,2,Analysis,2.564102564102564
+1255,sentiment,2,Analysis,2.564102564102564
+1256,part,2,Analysis,2.564102564102564
+1257,story,2,Analysis,2.564102564102564
+1258,dashboard,2,Analysis,2.564102564102564
+1259,three,2,Analysis,2.564102564102564
+1260,data,22,Tutorial,29.333333333333332
+1261,python,17,Tutorial,22.666666666666664
+1262,easily,10,Tutorial,13.333333333333334
+1263,learning,8,Tutorial,10.666666666666668
+1264,science,7,Tutorial,9.333333333333334
+1265,regression,6,Tutorial,8.0
+1266,tutorial,6,Tutorial,8.0
+1267,linear,5,Tutorial,6.666666666666667
+1268,part,4,Tutorial,5.333333333333334
+1269,strong,4,Tutorial,5.333333333333334
+1270,machine,3,Tutorial,4.0
+1271,model,3,Tutorial,4.0
+1272,create,3,Tutorial,4.0
+1273,easy,3,Tutorial,4.0
+1274,library,3,Tutorial,4.0
+1275,scraping,3,Tutorial,4.0
+1276,transfer,2,Tutorial,2.666666666666667
+1277,neural,2,Tutorial,2.666666666666667
+1278,introduction,2,Tutorial,2.666666666666667
+1279,scientist,2,Tutorial,2.666666666666667
+1280,data,25,Healthcare,33.33333333333333
+1281,covid,19,Healthcare,25.333333333333336
+1282,strong,10,Healthcare,13.333333333333334
+1283,science,7,Healthcare,9.333333333333334
+1284,machine,6,Healthcare,8.0
+1285,health,6,Healthcare,8.0
+1286,analytics,5,Healthcare,6.666666666666667
+1287,learning,5,Healthcare,6.666666666666667
+1288,care,4,Healthcare,5.333333333333334
+1289,good,2,Healthcare,2.666666666666667
+1290,spark,2,Healthcare,2.666666666666667
+1291,fear,2,Healthcare,2.666666666666667
+1292,clinical,2,Healthcare,2.666666666666667
+1293,death,2,Healthcare,2.666666666666667
+1294,introduction,2,Healthcare,2.666666666666667
+1295,fight,2,Healthcare,2.666666666666667
+1296,perspective,2,Healthcare,2.666666666666667
+1297,first,2,Healthcare,2.666666666666667
+1298,wellness,2,Healthcare,2.666666666666667
+1299,innovation,2,Healthcare,2.666666666666667
+1300,data,66,Data Science Courses,91.66666666666666
+1301,science,53,Data Science Courses,73.61111111111111
+1302,course,14,Data Science Courses,19.444444444444446
+1303,strong,12,Data Science Courses,16.666666666666664
+1304,training,9,Data Science Courses,12.5
+1305,career,6,Data Science Courses,8.333333333333332
+1306,learning,5,Data Science Courses,6.944444444444445
+1307,best,4,Data Science Courses,5.555555555555555
+1308,project,4,Data Science Courses,5.555555555555555
+1309,scientist,4,Data Science Courses,5.555555555555555
+1310,important,4,Data Science Courses,5.555555555555555
+1311,certification,3,Data Science Courses,4.166666666666666
+1312,capstone,3,Data Science Courses,4.166666666666666
+1313,promising,2,Data Science Courses,2.7777777777777777
+1314,learn,2,Data Science Courses,2.7777777777777777
+1315,master,2,Data Science Courses,2.7777777777777777
+1316,machine,2,Data Science Courses,2.7777777777777777
+1317,program,2,Data Science Courses,2.7777777777777777
+1318,institute,1,Data Science Courses,1.3888888888888888
+1319,path,1,Data Science Courses,1.3888888888888888
+1320,learning,19,TensorFlow,26.76056338028169
+1321,machine,11,TensorFlow,15.492957746478872
+1322,deep,11,TensorFlow,15.492957746478872
+1323,setup,6,TensorFlow,8.450704225352112
+1324,model,6,TensorFlow,8.450704225352112
+1325,data,5,TensorFlow,7.042253521126761
+1326,object,4,TensorFlow,5.633802816901409
+1327,detection,4,TensorFlow,5.633802816901409
+1328,guide,4,TensorFlow,5.633802816901409
+1329,leaning,4,TensorFlow,5.633802816901409
+1330,getting,3,TensorFlow,4.225352112676056
+1331,graph,3,TensorFlow,4.225352112676056
+1332,strong,3,TensorFlow,4.225352112676056
+1333,binary,3,TensorFlow,4.225352112676056
+1334,classification,3,TensorFlow,4.225352112676056
+1335,building,3,TensorFlow,4.225352112676056
+1336,part,3,TensorFlow,4.225352112676056
+1337,neural,3,TensorFlow,4.225352112676056
+1338,without,2,TensorFlow,2.8169014084507045
+1339,transfer,2,TensorFlow,2.8169014084507045
+1340,marketing,22,Marketing,31.428571428571427
+1341,data,16,Marketing,22.857142857142858
+1342,customer,11,Marketing,15.714285714285714
+1343,learning,8,Marketing,11.428571428571429
+1344,machine,7,Marketing,10.0
+1345,strong,6,Marketing,8.571428571428571
+1346,science,5,Marketing,7.142857142857142
+1347,analytics,5,Marketing,7.142857142857142
+1348,artificial,3,Marketing,4.285714285714286
+1349,intelligence,3,Marketing,4.285714285714286
+1350,segmentation,3,Marketing,4.285714285714286
+1351,time,3,Marketing,4.285714285714286
+1352,understand,2,Marketing,2.857142857142857
+1353,good,2,Marketing,2.857142857142857
+1354,part,2,Marketing,2.857142857142857
+1355,find,2,Marketing,2.857142857142857
+1356,click,2,Marketing,2.857142857142857
+1357,understanding,2,Marketing,2.857142857142857
+1358,need,2,Marketing,2.857142857142857
+1359,personalization,2,Marketing,2.857142857142857
+1360,data,18,Finance,25.71428571428571
+1361,python,10,Finance,14.285714285714285
+1362,analysis,8,Finance,11.428571428571429
+1363,finance,8,Finance,11.428571428571429
+1364,financial,8,Finance,11.428571428571429
+1365,science,7,Finance,10.0
+1366,part,5,Finance,7.142857142857142
+1367,stock,5,Finance,7.142857142857142
+1368,learning,4,Finance,5.714285714285714
+1369,industry,3,Finance,4.285714285714286
+1370,management,3,Finance,4.285714285714286
+1371,strong,3,Finance,4.285714285714286
+1372,investment,3,Finance,4.285714285714286
+1373,market,2,Finance,2.857142857142857
+1374,price,2,Finance,2.857142857142857
+1375,trading,2,Finance,2.857142857142857
+1376,fraud,2,Finance,2.857142857142857
+1377,crisis,2,Finance,2.857142857142857
+1378,finding,2,Finance,2.857142857142857
+1379,machine,2,Finance,2.857142857142857
+1380,clustering,34,Clustering,49.275362318840585
+1381,data,10,Clustering,14.492753623188406
+1382,learning,7,Clustering,10.144927536231885
+1383,machine,7,Clustering,10.144927536231885
+1384,strong,6,Clustering,8.695652173913043
+1385,customer,6,Clustering,8.695652173913043
+1386,segmentation,4,Clustering,5.797101449275362
+1387,unsupervised,4,Clustering,5.797101449275362
+1388,algorithm,4,Clustering,5.797101449275362
+1389,science,4,Clustering,5.797101449275362
+1390,hierarchical,3,Clustering,4.3478260869565215
+1391,exploring,3,Clustering,4.3478260869565215
+1392,neighborhood,3,Clustering,4.3478260869565215
+1393,python,3,Clustering,4.3478260869565215
+1394,market,2,Clustering,2.898550724637681
+1395,introduction,2,Clustering,2.898550724637681
+1396,best,2,Clustering,2.898550724637681
+1397,open,2,Clustering,2.898550724637681
+1398,capstone,2,Clustering,2.898550724637681
+1399,restaurant,2,Clustering,2.898550724637681
+1400,regression,33,Regression,49.25373134328358
+1401,linear,14,Regression,20.8955223880597
+1402,learning,8,Regression,11.940298507462686
+1403,analysis,8,Regression,11.940298507462686
+1404,strong,7,Regression,10.44776119402985
+1405,machine,7,Regression,10.44776119402985
+1406,data,7,Regression,10.44776119402985
+1407,introduction,5,Regression,7.462686567164178
+1408,model,4,Regression,5.970149253731343
+1409,prediction,4,Regression,5.970149253731343
+1410,covid,4,Regression,5.970149253731343
+1411,simple,4,Regression,5.970149253731343
+1412,house,3,Regression,4.477611940298507
+1413,multiple,3,Regression,4.477611940298507
+1414,python,3,Regression,4.477611940298507
+1415,various,2,Regression,2.9850746268656714
+1416,boston,2,Regression,2.9850746268656714
+1417,problem,2,Regression,2.9850746268656714
+1418,method,2,Regression,2.9850746268656714
+1419,home,2,Regression,2.9850746268656714
+1420,tableau,29,Tableau,43.28358208955223
+1421,data,20,Tableau,29.850746268656714
+1422,visualization,10,Tableau,14.925373134328357
+1423,covid,5,Tableau,7.462686567164178
+1424,dashboard,4,Tableau,5.970149253731343
+1425,strong,3,Tableau,4.477611940298507
+1426,analysis,3,Tableau,4.477611940298507
+1427,chart,3,Tableau,4.477611940298507
+1428,week,3,Tableau,4.477611940298507
+1429,science,3,Tableau,4.477611940298507
+1430,right,3,Tableau,4.477611940298507
+1431,python,2,Tableau,2.9850746268656714
+1432,tutorial,2,Tableau,2.9850746268656714
+1433,button,2,Tableau,2.9850746268656714
+1434,live,2,Tableau,2.9850746268656714
+1435,experience,2,Tableau,2.9850746268656714
+1436,city,2,Tableau,2.9850746268656714
+1437,attractive,2,Tableau,2.9850746268656714
+1438,fiar,2,Tableau,2.9850746268656714
+1439,popular,2,Tableau,2.9850746268656714
+1440,data,45,Interview,68.18181818181817
+1441,science,30,Interview,45.45454545454545
+1442,interview,26,Interview,39.39393939393939
+1443,guide,14,Interview,21.21212121212121
+1444,scientist,5,Interview,7.575757575757576
+1445,learning,5,Interview,7.575757575757576
+1446,machine,4,Interview,6.0606060606060606
+1447,analytics,3,Interview,4.545454545454546
+1448,need,2,Interview,3.0303030303030303
+1449,important,2,Interview,3.0303030303030303
+1450,tech,2,Interview,3.0303030303030303
+1451,strong,2,Interview,3.0303030303030303
+1452,founder,2,Interview,3.0303030303030303
+1453,career,2,Interview,3.0303030303030303
+1454,analyst,2,Interview,3.0303030303030303
+1455,crack,2,Interview,3.0303030303030303
+1456,difference,2,Interview,3.0303030303030303
+1457,hurry,1,Interview,1.5151515151515151
+1458,easy,1,Interview,1.5151515151515151
+1459,senior,1,Interview,1.5151515151515151
+1460,data,13,Ciencia De Dados,19.696969696969695
+1461,para,10,Ciencia De Dados,15.151515151515152
+1462,science,7,Ciencia De Dados,10.606060606060606
+1463,python,7,Ciencia De Dados,10.606060606060606
+1464,machine,5,Ciencia De Dados,7.575757575757576
+1465,learning,5,Ciencia De Dados,7.575757575757576
+1466,strong,4,Ciencia De Dados,6.0606060606060606
+1467,analytics,2,Ciencia De Dados,3.0303030303030303
+1468,scientist,2,Ciencia De Dados,3.0303030303030303
+1469,storytelling,1,Ciencia De Dados,1.5151515151515151
+1470,copa,1,Ciencia De Dados,1.5151515151515151
+1471,artificial,1,Ciencia De Dados,1.5151515151515151
+1472,porto,1,Ciencia De Dados,1.5151515151515151
+1473,principal,1,Ciencia De Dados,1.5151515151515151
+1474,skill,1,Ciencia De Dados,1.5151515151515151
+1475,lake,1,Ciencia De Dados,1.5151515151515151
+1476,carol,1,Ciencia De Dados,1.5151515151515151
+1477,linear,1,Ciencia De Dados,1.5151515151515151
+1478,pulp,1,Ciencia De Dados,1.5151515151515151
+1479,saber,1,Ciencia De Dados,1.5151515151515151
+1480,data,21,Engineering,33.33333333333333
+1481,science,8,Engineering,12.698412698412698
+1482,part,7,Engineering,11.11111111111111
+1483,learning,6,Engineering,9.523809523809524
+1484,strong,6,Engineering,9.523809523809524
+1485,engineering,6,Engineering,9.523809523809524
+1486,machine,5,Engineering,7.936507936507936
+1487,scientist,4,Engineering,6.349206349206349
+1488,first,3,Engineering,4.761904761904762
+1489,python,3,Engineering,4.761904761904762
+1490,analysis,3,Engineering,4.761904761904762
+1491,intelligent,3,Engineering,4.761904761904762
+1492,system,3,Engineering,4.761904761904762
+1493,hotel,3,Engineering,4.761904761904762
+1494,price,3,Engineering,4.761904761904762
+1495,fetching,3,Engineering,4.761904761904762
+1496,making,2,Engineering,3.1746031746031744
+1497,scalable,2,Engineering,3.1746031746031744
+1498,model,2,Engineering,3.1746031746031744
+1499,resume,2,Engineering,3.1746031746031744
+1500,learning,14,Pytorch,22.22222222222222
+1501,deep,12,Pytorch,19.047619047619047
+1502,tensor,8,Pytorch,12.698412698412698
+1503,neural,5,Pytorch,7.936507936507936
+1504,library,4,Pytorch,6.349206349206349
+1505,architecture,3,Pytorch,4.761904761904762
+1506,introduction,3,Pytorch,4.761904761904762
+1507,model,3,Pytorch,4.761904761904762
+1508,classification,3,Pytorch,4.761904761904762
+1509,exploration,3,Pytorch,4.761904761904762
+1510,five,3,Pytorch,4.761904761904762
+1511,zero,3,Pytorch,4.761904761904762
+1512,machine,2,Pytorch,3.1746031746031744
+1513,strong,2,Pytorch,3.1746031746031744
+1514,image,2,Pytorch,3.1746031746031744
+1515,create,2,Pytorch,3.1746031746031744
+1516,classifier,2,Pytorch,3.1746031746031744
+1517,getting,2,Pytorch,3.1746031746031744
+1518,linear,2,Pytorch,3.1746031746031744
+1519,exploring,2,Pytorch,3.1746031746031744
+1520,data,10,Udacity Nanodegree,16.129032258064516
+1521,capstone,9,Udacity Nanodegree,14.516129032258066
+1522,boston,6,Udacity Nanodegree,9.67741935483871
+1523,strong,6,Udacity Nanodegree,9.67741935483871
+1524,prediction,6,Udacity Nanodegree,9.67741935483871
+1525,offer,5,Udacity Nanodegree,8.064516129032258
+1526,science,5,Udacity Nanodegree,8.064516129032258
+1527,customer,5,Udacity Nanodegree,8.064516129032258
+1528,analysis,4,Udacity Nanodegree,6.451612903225806
+1529,success,4,Udacity Nanodegree,6.451612903225806
+1530,challenge,3,Udacity Nanodegree,4.838709677419355
+1531,better,3,Udacity Nanodegree,4.838709677419355
+1532,project,3,Udacity Nanodegree,4.838709677419355
+1533,churn,3,Udacity Nanodegree,4.838709677419355
+1534,developer,3,Udacity Nanodegree,4.838709677419355
+1535,stack,3,Udacity Nanodegree,4.838709677419355
+1536,understanding,2,Udacity Nanodegree,3.225806451612903
+1537,finding,2,Udacity Nanodegree,3.225806451612903
+1538,covid,2,Udacity Nanodegree,3.225806451612903
+1539,report,2,Udacity Nanodegree,3.225806451612903
+1540,kaleidoscope,9,Politics,15.0
+1541,covid,6,Politics,10.0
+1542,strong,5,Politics,8.333333333333332
+1543,politics,4,Politics,6.666666666666667
+1544,twitter,3,Politics,5.0
+1545,sanders,3,Politics,5.0
+1546,data,3,Politics,5.0
+1547,election,3,Politics,5.0
+1548,political,3,Politics,5.0
+1549,democratic,2,Politics,3.3333333333333335
+1550,candidate,2,Politics,3.3333333333333335
+1551,measuring,2,Politics,3.3333333333333335
+1552,could,2,Politics,3.3333333333333335
+1553,problem,2,Politics,3.3333333333333335
+1554,science,2,Politics,3.3333333333333335
+1555,violence,2,Politics,3.3333333333333335
+1556,risk,2,Politics,3.3333333333333335
+1557,briefing,2,Politics,3.3333333333333335
+1558,congressional,2,Politics,3.3333333333333335
+1559,pandemic,2,Politics,3.3333333333333335
+1560,spark,29,Spark,49.152542372881356
+1561,data,9,Spark,15.254237288135593
+1562,churn,8,Spark,13.559322033898304
+1563,apache,8,Spark,13.559322033898304
+1564,customer,7,Spark,11.864406779661017
+1565,prediction,5,Spark,8.47457627118644
+1566,strong,4,Spark,6.779661016949152
+1567,building,4,Spark,6.779661016949152
+1568,music,3,Spark,5.084745762711865
+1569,science,3,Spark,5.084745762711865
+1570,predict,3,Spark,5.084745762711865
+1571,streaming,2,Spark,3.389830508474576
+1572,getting,2,Spark,3.389830508474576
+1573,graph,2,Spark,3.389830508474576
+1574,framework,2,Spark,3.389830508474576
+1575,scala,2,Spark,3.389830508474576
+1576,scaling,2,Spark,3.389830508474576
+1577,machine,2,Spark,3.389830508474576
+1578,learning,2,Spark,3.389830508474576
+1579,python,2,Spark,3.389830508474576
+1580,data,10,Blockchain,17.543859649122805
+1581,strong,4,Blockchain,7.017543859649122
+1582,analysis,4,Blockchain,7.017543859649122
+1583,technology,4,Blockchain,7.017543859649122
+1584,undetectable,3,Blockchain,5.263157894736842
+1585,counterfeit,3,Blockchain,5.263157894736842
+1586,money,3,Blockchain,5.263157894736842
+1587,business,3,Blockchain,5.263157894736842
+1588,double,2,Blockchain,3.508771929824561
+1589,value,2,Blockchain,3.508771929824561
+1590,profit,2,Blockchain,3.508771929824561
+1591,metrics,2,Blockchain,3.508771929824561
+1592,million,2,Blockchain,3.508771929824561
+1593,really,2,Blockchain,3.508771929824561
+1594,space,2,Blockchain,3.508771929824561
+1595,medium,1,Blockchain,1.7543859649122806
+1596,journey,1,Blockchain,1.7543859649122806
+1597,dedicate,1,Blockchain,1.7543859649122806
+1598,part,1,Blockchain,1.7543859649122806
+1599,purchase,1,Blockchain,1.7543859649122806
+1600,data,14,Economics,24.561403508771928
+1601,strong,9,Economics,15.789473684210526
+1602,economic,6,Economics,10.526315789473683
+1603,covid,5,Economics,8.771929824561402
+1604,economics,4,Economics,7.017543859649122
+1605,world,3,Economics,5.263157894736842
+1606,science,3,Economics,5.263157894736842
+1607,python,3,Economics,5.263157894736842
+1608,impact,2,Economics,3.508771929824561
+1609,artificial,2,Economics,3.508771929824561
+1610,intelligence,2,Economics,3.508771929824561
+1611,analysis,2,Economics,3.508771929824561
+1612,curve,2,Economics,3.508771929824561
+1613,guide,2,Economics,3.508771929824561
+1614,sanders,2,Economics,3.508771929824561
+1615,credit,2,Economics,3.508771929824561
+1616,market,2,Economics,3.508771929824561
+1617,crisis,2,Economics,3.508771929824561
+1618,city,2,Economics,3.508771929824561
+1619,economy,2,Economics,3.508771929824561
+1620,data,18,Tech,32.142857142857146
+1621,tech,6,Tech,10.714285714285714
+1622,science,5,Tech,8.928571428571429
+1623,machine,4,Tech,7.142857142857142
+1624,learning,4,Tech,7.142857142857142
+1625,part,3,Tech,5.357142857142857
+1626,strong,3,Tech,5.357142857142857
+1627,scientist,3,Tech,5.357142857142857
+1628,phoenix,2,Tech,3.571428571428571
+1629,behind,2,Tech,3.571428571428571
+1630,time,2,Tech,3.571428571428571
+1631,study,2,Tech,3.571428571428571
+1632,confusion,2,Tech,3.571428571428571
+1633,intelligence,2,Tech,3.571428571428571
+1634,beyond,2,Tech,3.571428571428571
+1635,python,2,Tech,3.571428571428571
+1636,analysis,2,Tech,3.571428571428571
+1637,twitter,1,Tech,1.7857142857142856
+1638,could,1,Tech,1.7857142857142856
+1639,work,1,Tech,1.7857142857142856
+1640,analytics,11,Predictive Analytics,20.0
+1641,predictive,10,Predictive Analytics,18.181818181818183
+1642,data,9,Predictive Analytics,16.363636363636363
+1643,science,7,Predictive Analytics,12.727272727272727
+1644,learning,6,Predictive Analytics,10.909090909090908
+1645,machine,5,Predictive Analytics,9.090909090909092
+1646,strong,4,Predictive Analytics,7.2727272727272725
+1647,forecasting,3,Predictive Analytics,5.454545454545454
+1648,python,3,Predictive Analytics,5.454545454545454
+1649,analysis,3,Predictive Analytics,5.454545454545454
+1650,prediction,3,Predictive Analytics,5.454545454545454
+1651,model,3,Predictive Analytics,5.454545454545454
+1652,system,2,Predictive Analytics,3.6363636363636362
+1653,part,2,Predictive Analytics,3.6363636363636362
+1654,work,2,Predictive Analytics,3.6363636363636362
+1655,modeling,2,Predictive Analytics,3.6363636363636362
+1656,time,2,Predictive Analytics,3.6363636363636362
+1657,series,2,Predictive Analytics,3.6363636363636362
+1658,algorithm,2,Predictive Analytics,3.6363636363636362
+1659,development,2,Predictive Analytics,3.6363636363636362
+1660,logistic,37,Logistic Regression,67.27272727272727
+1661,regression,34,Logistic Regression,61.81818181818181
+1662,python,6,Logistic Regression,10.909090909090908
+1663,machine,6,Logistic Regression,10.909090909090908
+1664,learning,6,Logistic Regression,10.909090909090908
+1665,classification,5,Logistic Regression,9.090909090909092
+1666,prediction,5,Logistic Regression,9.090909090909092
+1667,data,5,Logistic Regression,9.090909090909092
+1668,analysis,4,Logistic Regression,7.2727272727272725
+1669,predict,4,Logistic Regression,7.2727272727272725
+1670,science,4,Logistic Regression,7.2727272727272725
+1671,model,4,Logistic Regression,7.2727272727272725
+1672,interpretation,3,Logistic Regression,5.454545454545454
+1673,understanding,3,Logistic Regression,5.454545454545454
+1674,heart,3,Logistic Regression,5.454545454545454
+1675,disease,3,Logistic Regression,5.454545454545454
+1676,covid,3,Logistic Regression,5.454545454545454
+1677,strong,3,Logistic Regression,5.454545454545454
+1678,geometric,2,Logistic Regression,3.6363636363636362
+1679,binary,2,Logistic Regression,3.6363636363636362
+1680,data,22,Cloud Computing,40.0
+1681,cloud,22,Cloud Computing,40.0
+1682,machine,5,Cloud Computing,9.090909090909092
+1683,learning,5,Cloud Computing,9.090909090909092
+1684,science,5,Cloud Computing,9.090909090909092
+1685,strong,5,Cloud Computing,9.090909090909092
+1686,part,4,Cloud Computing,7.2727272727272725
+1687,analytics,3,Cloud Computing,5.454545454545454
+1688,industry,3,Cloud Computing,5.454545454545454
+1689,pipeline,3,Cloud Computing,5.454545454545454
+1690,azure,3,Cloud Computing,5.454545454545454
+1691,revolution,2,Cloud Computing,3.6363636363636362
+1692,running,2,Cloud Computing,3.6363636363636362
+1693,snowflake,2,Cloud Computing,3.6363636363636362
+1694,guide,2,Cloud Computing,3.6363636363636362
+1695,core,2,Cloud Computing,3.6363636363636362
+1696,pyramid,2,Cloud Computing,3.6363636363636362
+1697,practical,2,Cloud Computing,3.6363636363636362
+1698,path,2,Cloud Computing,3.6363636363636362
+1699,every,2,Cloud Computing,3.6363636363636362
+1700,specialist,16,Adventure,29.09090909090909
+1701,turkey,16,Adventure,29.09090909090909
+1702,york,15,Adventure,27.27272727272727
+1703,omen,13,Adventure,23.636363636363637
+1704,love,12,Adventure,21.818181818181817
+1705,spell,11,Adventure,20.0
+1706,contact,10,Adventure,18.181818181818183
+1707,back,9,Adventure,16.363636363636363
+1708,real,8,Adventure,14.545454545454545
+1709,expert,7,Adventure,12.727272727272727
+1710,canada,6,Adventure,10.909090909090908
+1711,famous,6,Adventure,10.909090909090908
+1712,near,4,Adventure,7.2727272727272725
+1713,hungry,4,Adventure,7.2727272727272725
+1714,caster,2,Adventure,3.6363636363636362
+1715,japan,2,Adventure,3.6363636363636362
+1716,removal,1,Adventure,1.8181818181818181
+1717,world,1,Adventure,1.8181818181818181
+1718,astrologer,1,Adventure,1.8181818181818181
+1719,marriage,1,Adventure,1.8181818181818181
+1720,feature,25,Feature Engineering,46.2962962962963
+1721,engineering,23,Feature Engineering,42.592592592592595
+1722,learning,12,Feature Engineering,22.22222222222222
+1723,machine,11,Feature Engineering,20.37037037037037
+1724,data,7,Feature Engineering,12.962962962962962
+1725,strong,7,Feature Engineering,12.962962962962962
+1726,categorical,5,Feature Engineering,9.25925925925926
+1727,part,4,Feature Engineering,7.4074074074074066
+1728,science,4,Feature Engineering,7.4074074074074066
+1729,handling,3,Feature Engineering,5.555555555555555
+1730,imputation,3,Feature Engineering,5.555555555555555
+1731,engine,2,Feature Engineering,3.7037037037037033
+1732,deep,2,Feature Engineering,3.7037037037037033
+1733,classification,2,Feature Engineering,3.7037037037037033
+1734,dimensionality,2,Feature Engineering,3.7037037037037033
+1735,scaling,2,Feature Engineering,3.7037037037037033
+1736,class,2,Feature Engineering,3.7037037037037033
+1737,imbalance,2,Feature Engineering,3.7037037037037033
+1738,building,1,Feature Engineering,1.8518518518518516
+1739,recommender,1,Feature Engineering,1.8518518518518516
+1740,data,25,Beginner,46.2962962962963
+1741,science,16,Beginner,29.629629629629626
+1742,learning,15,Beginner,27.77777777777778
+1743,machine,12,Beginner,22.22222222222222
+1744,python,4,Beginner,7.4074074074074066
+1745,learn,4,Beginner,7.4074074074074066
+1746,know,4,Beginner,7.4074074074074066
+1747,strong,4,Beginner,7.4074074074074066
+1748,project,3,Beginner,5.555555555555555
+1749,guide,3,Beginner,5.555555555555555
+1750,analysis,3,Beginner,5.555555555555555
+1751,journey,3,Beginner,5.555555555555555
+1752,scientist,3,Beginner,5.555555555555555
+1753,simple,2,Beginner,3.7037037037037033
+1754,first,2,Beginner,3.7037037037037033
+1755,understanding,2,Beginner,3.7037037037037033
+1756,covid,2,Beginner,3.7037037037037033
+1757,series,2,Beginner,3.7037037037037033
+1758,part,2,Beginner,3.7037037037037033
+1759,scratch,2,Beginner,3.7037037037037033
+1760,data,17,Research,31.48148148148148
+1761,science,11,Research,20.37037037037037
+1762,research,10,Research,18.51851851851852
+1763,strong,7,Research,12.962962962962962
+1764,covid,6,Research,11.11111111111111
+1765,read,5,Research,9.25925925925926
+1766,paper,5,Research,9.25925925925926
+1767,center,4,Research,7.4074074074074066
+1768,artificial,3,Research,5.555555555555555
+1769,social,2,Research,3.7037037037037033
+1770,archive,2,Research,3.7037037037037033
+1771,future,2,Research,3.7037037037037033
+1772,binary,2,Research,3.7037037037037033
+1773,logistic,2,Research,3.7037037037037033
+1774,regression,2,Research,3.7037037037037033
+1775,interpretation,2,Research,3.7037037037037033
+1776,zero,2,Research,3.7037037037037033
+1777,learning,2,Research,3.7037037037037033
+1778,global,2,Research,3.7037037037037033
+1779,trouble,2,Research,3.7037037037037033
+1780,data,36,Data Cleaning,67.9245283018868
+1781,cleaning,11,Data Cleaning,20.754716981132077
+1782,part,5,Data Cleaning,9.433962264150944
+1783,analysis,4,Data Cleaning,7.547169811320755
+1784,science,4,Data Cleaning,7.547169811320755
+1785,python,4,Data Cleaning,7.547169811320755
+1786,strong,4,Data Cleaning,7.547169811320755
+1787,machine,3,Data Cleaning,5.660377358490567
+1788,learning,3,Data Cleaning,5.660377358490567
+1789,guide,3,Data Cleaning,5.660377358490567
+1790,income,3,Data Cleaning,5.660377358490567
+1791,model,2,Data Cleaning,3.7735849056603774
+1792,process,2,Data Cleaning,3.7735849056603774
+1793,cleansing,2,Data Cleaning,3.7735849056603774
+1794,exploring,2,Data Cleaning,3.7735849056603774
+1795,clean,2,Data Cleaning,3.7735849056603774
+1796,messy,2,Data Cleaning,3.7735849056603774
+1797,index,2,Data Cleaning,3.7735849056603774
+1798,introduction,2,Data Cleaning,3.7735849056603774
+1799,ways,2,Data Cleaning,3.7735849056603774
+1800,learning,19,Unsupervised Learning,35.84905660377358
+1801,clustering,16,Unsupervised Learning,30.18867924528302
+1802,machine,12,Unsupervised Learning,22.641509433962266
+1803,unsupervised,10,Unsupervised Learning,18.867924528301888
+1804,customer,6,Unsupervised Learning,11.320754716981133
+1805,data,6,Unsupervised Learning,11.320754716981133
+1806,analysis,4,Unsupervised Learning,7.547169811320755
+1807,science,4,Unsupervised Learning,7.547169811320755
+1808,segmentation,4,Unsupervised Learning,7.547169811320755
+1809,python,3,Unsupervised Learning,5.660377358490567
+1810,principal,2,Unsupervised Learning,3.7735849056603774
+1811,component,2,Unsupervised Learning,3.7735849056603774
+1812,reduction,2,Unsupervised Learning,3.7735849056603774
+1813,identify,2,Unsupervised Learning,3.7735849056603774
+1814,topic,2,Unsupervised Learning,3.7735849056603774
+1815,modeling,2,Unsupervised Learning,3.7735849056603774
+1816,model,2,Unsupervised Learning,3.7735849056603774
+1817,network,2,Unsupervised Learning,3.7735849056603774
+1818,simplified,1,Unsupervised Learning,1.8867924528301887
+1819,hurry,1,Unsupervised Learning,1.8867924528301887
+1820,data,27,Women In Tech,50.943396226415096
+1821,science,15,Women In Tech,28.30188679245283
+1822,learning,8,Women In Tech,15.09433962264151
+1823,machine,7,Women In Tech,13.20754716981132
+1824,strong,6,Women In Tech,11.320754716981133
+1825,python,3,Women In Tech,5.660377358490567
+1826,woman,3,Women In Tech,5.660377358490567
+1827,across,2,Women In Tech,3.7735849056603774
+1828,refresher,2,Women In Tech,3.7735849056603774
+1829,become,2,Women In Tech,3.7735849056603774
+1830,part,2,Women In Tech,3.7735849056603774
+1831,program,2,Women In Tech,3.7735849056603774
+1832,scientist,2,Women In Tech,3.7735849056603774
+1833,first,2,Women In Tech,3.7735849056603774
+1834,regional,2,Women In Tech,3.7735849056603774
+1835,joint,2,Women In Tech,3.7735849056603774
+1836,cauliflower,2,Women In Tech,3.7735849056603774
+1837,experience,2,Women In Tech,3.7735849056603774
+1838,secret,2,Women In Tech,3.7735849056603774
+1839,recipe,2,Women In Tech,3.7735849056603774
+1840,data,19,Leadership,36.53846153846153
+1841,science,8,Leadership,15.384615384615385
+1842,team,7,Leadership,13.461538461538462
+1843,strong,4,Leadership,7.6923076923076925
+1844,leadership,3,Leadership,5.769230769230769
+1845,problem,3,Leadership,5.769230769230769
+1846,analytics,3,Leadership,5.769230769230769
+1847,learning,2,Leadership,3.8461538461538463
+1848,trust,2,Leadership,3.8461538461538463
+1849,organization,2,Leadership,3.8461538461538463
+1850,strategy,2,Leadership,3.8461538461538463
+1851,virtual,2,Leadership,3.8461538461538463
+1852,assistant,2,Leadership,3.8461538461538463
+1853,welcome,2,Leadership,3.8461538461538463
+1854,please,2,Leadership,3.8461538461538463
+1855,solve,2,Leadership,3.8461538461538463
+1856,everything,2,Leadership,3.8461538461538463
+1857,part,2,Leadership,3.8461538461538463
+1858,solution,2,Leadership,3.8461538461538463
+1859,achieve,1,Leadership,1.9230769230769231
+1860,data,10,Software Engineering,19.230769230769234
+1861,python,6,Software Engineering,11.538461538461538
+1862,strong,6,Software Engineering,11.538461538461538
+1863,science,4,Software Engineering,7.6923076923076925
+1864,engineering,4,Software Engineering,7.6923076923076925
+1865,machine,4,Software Engineering,7.6923076923076925
+1866,learning,4,Software Engineering,7.6923076923076925
+1867,code,3,Software Engineering,5.769230769230769
+1868,career,3,Software Engineering,5.769230769230769
+1869,guide,2,Software Engineering,3.8461538461538463
+1870,team,2,Software Engineering,3.8461538461538463
+1871,know,2,Software Engineering,3.8461538461538463
+1872,engineer,2,Software Engineering,3.8461538461538463
+1873,scientist,2,Software Engineering,3.8461538461538463
+1874,graph,2,Software Engineering,3.8461538461538463
+1875,model,2,Software Engineering,3.8461538461538463
+1876,best,2,Software Engineering,3.8461538461538463
+1877,practical,2,Software Engineering,3.8461538461538463
+1878,para,2,Software Engineering,3.8461538461538463
+1879,meet,1,Software Engineering,1.9230769230769231
+1880,pour,11,Intelligence Artificielle,21.153846153846153
+1881,intelligence,7,Intelligence Artificielle,13.461538461538462
+1882,comment,5,Intelligence Artificielle,9.615384615384617
+1883,machine,4,Intelligence Artificielle,7.6923076923076925
+1884,capable,4,Intelligence Artificielle,7.6923076923076925
+1885,learning,3,Intelligence Artificielle,5.769230769230769
+1886,plus,3,Intelligence Artificielle,5.769230769230769
+1887,lance,2,Intelligence Artificielle,3.8461538461538463
+1888,tait,2,Intelligence Artificielle,3.8461538461538463
+1889,quest,1,Intelligence Artificielle,1.9230769230769231
+1890,vent,1,Intelligence Artificielle,1.9230769230769231
+1891,sera,1,Intelligence Artificielle,1.9230769230769231
+1892,solution,1,Intelligence Artificielle,1.9230769230769231
+1893,bote,1,Intelligence Artificielle,1.9230769230769231
+1894,identifier,1,Intelligence Artificielle,1.9230769230769231
+1895,architecture,1,Intelligence Artificielle,1.9230769230769231
+1896,ensemble,1,Intelligence Artificielle,1.9230769230769231
+1897,importer,1,Intelligence Artificielle,1.9230769230769231
+1898,construction,1,Intelligence Artificielle,1.9230769230769231
+1899,puissant,1,Intelligence Artificielle,1.9230769230769231
+1900,time,24,Time Series Analysis,47.05882352941176
+1901,series,24,Time Series Analysis,47.05882352941176
+1902,data,11,Time Series Analysis,21.568627450980394
+1903,analysis,8,Time Series Analysis,15.686274509803921
+1904,part,7,Time Series Analysis,13.725490196078432
+1905,forecasting,6,Time Series Analysis,11.76470588235294
+1906,python,4,Time Series Analysis,7.8431372549019605
+1907,model,4,Time Series Analysis,7.8431372549019605
+1908,modeling,4,Time Series Analysis,7.8431372549019605
+1909,market,3,Time Series Analysis,5.88235294117647
+1910,learning,3,Time Series Analysis,5.88235294117647
+1911,stock,3,Time Series Analysis,5.88235294117647
+1912,introduction,3,Time Series Analysis,5.88235294117647
+1913,understanding,2,Time Series Analysis,3.9215686274509802
+1914,deep,2,Time Series Analysis,3.9215686274509802
+1915,price,2,Time Series Analysis,3.9215686274509802
+1916,demand,2,Time Series Analysis,3.9215686274509802
+1917,detection,2,Time Series Analysis,3.9215686274509802
+1918,machine,2,Time Series Analysis,3.9215686274509802
+1919,science,2,Time Series Analysis,3.9215686274509802
+1920,probability,17,Probability,33.33333333333333
+1921,data,12,Probability,23.52941176470588
+1922,science,10,Probability,19.607843137254903
+1923,part,8,Probability,15.686274509803921
+1924,statistics,5,Probability,9.803921568627452
+1925,learning,5,Probability,9.803921568627452
+1926,machine,4,Probability,7.8431372549019605
+1927,strong,4,Probability,7.8431372549019605
+1928,theorem,4,Probability,7.8431372549019605
+1929,detection,4,Probability,7.8431372549019605
+1930,hypothesis,3,Probability,5.88235294117647
+1931,inference,3,Probability,5.88235294117647
+1932,anomaly,3,Probability,5.88235294117647
+1933,statistical,2,Probability,3.9215686274509802
+1934,testing,2,Probability,3.9215686274509802
+1935,introduction,2,Probability,3.9215686274509802
+1936,covid,2,Probability,3.9215686274509802
+1937,probabilistic,2,Probability,3.9215686274509802
+1938,random,2,Probability,3.9215686274509802
+1939,distribution,2,Probability,3.9215686274509802
+1940,specialist,16,Astronomy,31.372549019607842
+1941,expert,12,Astronomy,23.52941176470588
+1942,famous,12,Astronomy,23.52941176470588
+1943,world,10,Astronomy,19.607843137254903
+1944,canada,9,Astronomy,17.647058823529413
+1945,astrologer,9,Astronomy,17.647058823529413
+1946,real,8,Astronomy,15.686274509803921
+1947,marriage,6,Astronomy,11.76470588235294
+1948,love,6,Astronomy,11.76470588235294
+1949,data,4,Astronomy,7.8431372549019605
+1950,best,4,Astronomy,7.8431372549019605
+1951,science,2,Astronomy,3.9215686274509802
+1952,kale,2,Astronomy,3.9215686274509802
+1953,authentic,2,Astronomy,3.9215686274509802
+1954,york,2,Astronomy,3.9215686274509802
+1955,lost,2,Astronomy,3.9215686274509802
+1956,analytics,1,Astronomy,1.9607843137254901
+1957,method,1,Astronomy,1.9607843137254901
+1958,calculating,1,Astronomy,1.9607843137254901
+1959,space,1,Astronomy,1.9607843137254901
+1960,python,12,Numpy,24.0
+1961,data,11,Numpy,22.0
+1962,science,9,Numpy,18.0
+1963,know,3,Numpy,6.0
+1964,array,3,Numpy,6.0
+1965,want,2,Numpy,4.0
+1966,learn,2,Numpy,4.0
+1967,getting,2,Numpy,4.0
+1968,random,2,Numpy,4.0
+1969,introduction,2,Numpy,4.0
+1970,matrix,2,Numpy,4.0
+1971,like,2,Numpy,4.0
+1972,advanced,2,Numpy,4.0
+1973,panda,1,Numpy,2.0
+1974,tool,1,Numpy,2.0
+1975,function,1,Numpy,2.0
+1976,complete,1,Numpy,2.0
+1977,course,1,Numpy,2.0
+1978,need,1,Numpy,2.0
+1979,recommender,1,Numpy,2.0
+1980,data,37,Career Advice,74.0
+1981,science,20,Career Advice,40.0
+1982,scientist,14,Career Advice,28.000000000000004
+1983,career,7,Career Advice,14.000000000000002
+1984,becoming,4,Career Advice,8.0
+1985,transition,4,Career Advice,8.0
+1986,strong,4,Career Advice,8.0
+1987,business,3,Career Advice,6.0
+1988,build,3,Career Advice,6.0
+1989,technical,3,Career Advice,6.0
+1990,interview,2,Career Advice,4.0
+1991,become,2,Career Advice,4.0
+1992,virtual,2,Career Advice,4.0
+1993,dont,2,Career Advice,4.0
+1994,analytics,2,Career Advice,4.0
+1995,best,1,Career Advice,2.0
+1996,soft,1,Career Advice,2.0
+1997,skill,1,Career Advice,2.0
+1998,without,1,Career Advice,2.0
+1999,degree,1,Career Advice,2.0
